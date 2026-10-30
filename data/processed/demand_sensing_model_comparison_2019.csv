@@ -1,0 +1,4 @@
+Model,MAE,WAPE (%),Bias
+Ridge - Purchase History,68.09,10.84,-36.83
+Ridge - Demand Signals,71.2,11.33,-7.38
+Naive Forecast,97.88,15.58,11.53
