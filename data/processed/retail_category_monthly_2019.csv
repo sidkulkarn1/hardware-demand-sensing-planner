@@ -1,0 +1,49 @@
+Month,Category,Units_Sold,Total_Orders
+2019-01-01,Audio,864.0,251
+2019-01-01,Cameras and camcorders,592.0,158
+2019-01-01,Cell phones,1241.0,321
+2019-01-01,Computers,1601.0,370
+2019-02-01,Audio,940.0,258
+2019-02-01,Cameras and camcorders,628.0,167
+2019-02-01,Cell phones,1286.0,331
+2019-02-01,Computers,1811.0,439
+2019-03-01,Audio,390.0,104
+2019-03-01,Cameras and camcorders,233.0,78
+2019-03-01,Cell phones,450.0,114
+2019-03-01,Computers,696.0,161
+2019-04-01,Audio,46.0,16
+2019-04-01,Cameras and camcorders,79.0,20
+2019-04-01,Cell phones,125.0,28
+2019-04-01,Computers,141.0,35
+2019-05-01,Audio,719.0,200
+2019-05-01,Cameras and camcorders,562.0,173
+2019-05-01,Cell phones,1076.0,274
+2019-05-01,Computers,1388.0,349
+2019-06-01,Audio,613.0,181
+2019-06-01,Cameras and camcorders,562.0,159
+2019-06-01,Cell phones,888.0,238
+2019-06-01,Computers,1278.0,321
+2019-07-01,Audio,689.0,190
+2019-07-01,Cameras and camcorders,404.0,121
+2019-07-01,Cell phones,932.0,262
+2019-07-01,Computers,1335.0,302
+2019-08-01,Audio,733.0,202
+2019-08-01,Cameras and camcorders,510.0,151
+2019-08-01,Cell phones,924.0,253
+2019-08-01,Computers,1471.0,364
+2019-09-01,Audio,672.0,194
+2019-09-01,Cameras and camcorders,636.0,167
+2019-09-01,Cell phones,1022.0,276
+2019-09-01,Computers,1366.0,360
+2019-10-01,Audio,700.0,196
+2019-10-01,Cameras and camcorders,587.0,176
+2019-10-01,Cell phones,1109.0,291
+2019-10-01,Computers,1500.0,371
+2019-11-01,Audio,648.0,186
+2019-11-01,Cameras and camcorders,473.0,151
+2019-11-01,Cell phones,1110.0,284
+2019-11-01,Computers,1442.0,353
+2019-12-01,Audio,945.0,279
+2019-12-01,Cameras and camcorders,941.0,255
+2019-12-01,Cell phones,1565.0,429
+2019-12-01,Computers,2174.0,537
