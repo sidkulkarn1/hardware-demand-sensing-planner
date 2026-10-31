@@ -1,0 +1,6 @@
+Metric,Candidate,Rebuilt,Status
+Historical AirPods Units,15364.0,15364.0,PASS
+Google Trends Observations,53.0,53.0,PASS
+Supplier Delay Shortage,660.0,660.0,PASS
+External Models Evaluated,3.0,3.0,PASS
+Naive Forecast WAPE,8.600612870275793,8.600612870275793,PASS

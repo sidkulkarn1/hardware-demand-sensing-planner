@@ -1,0 +1,7 @@
+Period,Model,Forecasts,WAPE_Pct
+First 9 Evaluation Weeks,Naive,9,5.648110524177163
+First 9 Evaluation Weeks,Sales_Ridge,9,6.626247136126757
+First 9 Evaluation Weeks,Trends_Ridge,9,6.97513943388455
+Last 10 Evaluation Weeks,Naive,10,11.585866885784716
+Last 10 Evaluation Weeks,Sales_Ridge,10,15.184834612537681
+Last 10 Evaluation Weeks,Trends_Ridge,10,12.890574810946617
