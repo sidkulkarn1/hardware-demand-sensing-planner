@@ -1,0 +1,163 @@
+Case_ID,Scenario,Demand_Adjustment,Starting_Inventory,Arrival_Week_Adjustment,Shortage_Penalty_USD,No_Action_Exposure_USD,No_Action_Shortage,No_Action_Status,Reference_Action,Reference_Exposure_USD,Reference_Shortage,Reference_Status,Lowest_Cost_Action,Lowest_Cost_Exposure_USD,Lowest_Cost_Status,Reference_Action_Ready,Lowest_Cost_Is_Ready,No_Action_Is_Ready,Lowest_Ready_Action,Lowest_Ready_Exposure_USD,Lowest_Ready_Shortage,Ready_Available,Ready_Exposure_Gap_vs_No_Action_USD
+CASE_001,Demand Surge,0.85,1100,-1,25.0,4800.0,192,WATCH,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-988.0
+CASE_002,Demand Surge,0.85,1100,-1,75.0,14400.0,192,WATCH,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-10588.0
+CASE_003,Demand Surge,0.85,1100,-1,125.0,24000.0,192,WATCH,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-20188.0
+CASE_004,Demand Surge,0.85,1100,0,25.0,4800.0,192,WATCH,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-988.0
+CASE_005,Demand Surge,0.85,1100,0,75.0,14400.0,192,WATCH,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-10588.0
+CASE_006,Demand Surge,0.85,1100,0,125.0,24000.0,192,WATCH,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-20188.0
+CASE_007,Demand Surge,0.85,1100,1,25.0,13600.0,544,AT RISK,Add 276 Units - Week 4,17412.0,544,AT RISK,Add 276 Units - Week 5,13600.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_008,Demand Surge,0.85,1100,1,75.0,40800.0,544,AT RISK,Add 276 Units - Week 4,44612.0,544,AT RISK,Add 276 Units - Week 5,40800.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_009,Demand Surge,0.85,1100,1,125.0,68000.0,544,AT RISK,Add 276 Units - Week 4,71812.0,544,AT RISK,Add 276 Units - Week 5,68000.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_010,Demand Surge,0.85,1400,-1,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_011,Demand Surge,0.85,1400,-1,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_012,Demand Surge,0.85,1400,-1,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_013,Demand Surge,0.85,1400,0,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_014,Demand Surge,0.85,1400,0,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_015,Demand Surge,0.85,1400,0,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_016,Demand Surge,0.85,1400,1,25.0,6100.0,244,AT RISK,Add 276 Units - Week 4,9912.0,244,AT RISK,Add 276 Units - Week 5,6100.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_017,Demand Surge,0.85,1400,1,75.0,18300.0,244,AT RISK,Add 276 Units - Week 4,22112.0,244,AT RISK,Add 276 Units - Week 5,18300.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_018,Demand Surge,0.85,1400,1,125.0,30500.0,244,AT RISK,Add 276 Units - Week 4,34312.0,244,AT RISK,Add 276 Units - Week 5,30500.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_019,Demand Surge,0.85,1700,-1,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_020,Demand Surge,0.85,1700,-1,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_021,Demand Surge,0.85,1700,-1,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_022,Demand Surge,0.85,1700,0,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_023,Demand Surge,0.85,1700,0,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_024,Demand Surge,0.85,1700,0,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_025,Demand Surge,0.85,1700,1,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_026,Demand Surge,0.85,1700,1,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_027,Demand Surge,0.85,1700,1,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_028,Demand Surge,1.0,1100,-1,25.0,14400.0,576,AT RISK,Add 276 Units - Week 4,11312.0,300,AT RISK,Add 276 Units - Week 4,11312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_029,Demand Surge,1.0,1100,-1,75.0,43200.0,576,AT RISK,Add 276 Units - Week 4,26312.0,300,AT RISK,Add 276 Units - Week 4,26312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_030,Demand Surge,1.0,1100,-1,125.0,72000.0,576,AT RISK,Add 276 Units - Week 4,41312.0,300,AT RISK,Add 276 Units - Week 4,41312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_031,Demand Surge,1.0,1100,0,25.0,14400.0,576,AT RISK,Add 276 Units - Week 4,11312.0,300,AT RISK,Add 276 Units - Week 4,11312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_032,Demand Surge,1.0,1100,0,75.0,43200.0,576,AT RISK,Add 276 Units - Week 4,26312.0,300,AT RISK,Add 276 Units - Week 4,26312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_033,Demand Surge,1.0,1100,0,125.0,72000.0,576,AT RISK,Add 276 Units - Week 4,41312.0,300,AT RISK,Add 276 Units - Week 4,41312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_034,Demand Surge,1.0,1100,1,25.0,20800.0,832,AT RISK,Add 276 Units - Week 4,24612.0,832,AT RISK,Add 276 Units - Week 5,20800.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_035,Demand Surge,1.0,1100,1,75.0,62400.0,832,AT RISK,Add 276 Units - Week 4,66212.0,832,AT RISK,Add 276 Units - Week 5,62400.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_036,Demand Surge,1.0,1100,1,125.0,104000.0,832,AT RISK,Add 276 Units - Week 4,107812.0,832,AT RISK,Add 276 Units - Week 5,104000.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_037,Demand Surge,1.0,1400,-1,25.0,6900.0,276,AT RISK,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-3088.0
+CASE_038,Demand Surge,1.0,1400,-1,75.0,20700.0,276,AT RISK,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-16888.0
+CASE_039,Demand Surge,1.0,1400,-1,125.0,34500.0,276,AT RISK,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-30688.0
+CASE_040,Demand Surge,1.0,1400,0,25.0,6900.0,276,AT RISK,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-3088.0
+CASE_041,Demand Surge,1.0,1400,0,75.0,20700.0,276,AT RISK,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-16888.0
+CASE_042,Demand Surge,1.0,1400,0,125.0,34500.0,276,AT RISK,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 4,3812.0,READY,True,True,False,Add 276 Units - Week 4,3812.0,0.0,True,-30688.0
+CASE_043,Demand Surge,1.0,1400,1,25.0,13300.0,532,AT RISK,Add 276 Units - Week 4,17112.0,532,AT RISK,Add 276 Units - Week 5,13300.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_044,Demand Surge,1.0,1400,1,75.0,39900.0,532,AT RISK,Add 276 Units - Week 4,43712.0,532,AT RISK,Add 276 Units - Week 5,39900.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_045,Demand Surge,1.0,1400,1,125.0,66500.0,532,AT RISK,Add 276 Units - Week 4,70312.0,532,AT RISK,Add 276 Units - Week 5,66500.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_046,Demand Surge,1.0,1700,-1,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_047,Demand Surge,1.0,1700,-1,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_048,Demand Surge,1.0,1700,-1,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_049,Demand Surge,1.0,1700,0,25.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_050,Demand Surge,1.0,1700,0,75.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_051,Demand Surge,1.0,1700,0,125.0,0.0,0,READY,Add 276 Units - Week 4,3812.0,0,READY,Add 276 Units - Week 5,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_052,Demand Surge,1.0,1700,1,25.0,5800.0,232,WATCH,Add 276 Units - Week 4,9612.0,232,WATCH,Add 276 Units - Week 5,5800.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_053,Demand Surge,1.0,1700,1,75.0,17400.0,232,WATCH,Add 276 Units - Week 4,21212.0,232,WATCH,Add 276 Units - Week 5,17400.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_054,Demand Surge,1.0,1700,1,125.0,29000.0,232,WATCH,Add 276 Units - Week 4,32812.0,232,WATCH,Add 276 Units - Week 5,29000.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_055,Demand Surge,1.15,1100,-1,25.0,24100.0,964,AT RISK,Add 276 Units - Week 4,21012.0,688,AT RISK,Add 276 Units - Week 4,21012.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_056,Demand Surge,1.15,1100,-1,75.0,72300.0,964,AT RISK,Add 276 Units - Week 4,55412.0,688,AT RISK,Add 276 Units - Week 4,55412.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_057,Demand Surge,1.15,1100,-1,125.0,120500.0,964,AT RISK,Add 276 Units - Week 4,89812.0,688,AT RISK,Add 276 Units - Week 4,89812.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_058,Demand Surge,1.15,1100,0,25.0,24100.0,964,AT RISK,Add 276 Units - Week 4,21012.0,688,AT RISK,Add 276 Units - Week 4,21012.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_059,Demand Surge,1.15,1100,0,75.0,72300.0,964,AT RISK,Add 276 Units - Week 4,55412.0,688,AT RISK,Add 276 Units - Week 4,55412.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_060,Demand Surge,1.15,1100,0,125.0,120500.0,964,AT RISK,Add 276 Units - Week 4,89812.0,688,AT RISK,Add 276 Units - Week 4,89812.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_061,Demand Surge,1.15,1100,1,25.0,28075.0,1123,AT RISK,Add 276 Units - Week 4,31887.0,1123,AT RISK,Add 276 Units - Week 5,28075.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_062,Demand Surge,1.15,1100,1,75.0,84225.0,1123,AT RISK,Add 276 Units - Week 4,88037.0,1123,AT RISK,Add 276 Units - Week 5,84225.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_063,Demand Surge,1.15,1100,1,125.0,140375.0,1123,AT RISK,Add 276 Units - Week 4,144187.0,1123,AT RISK,Add 276 Units - Week 5,140375.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_064,Demand Surge,1.15,1400,-1,25.0,16600.0,664,AT RISK,Add 276 Units - Week 4,13512.0,388,AT RISK,Add 276 Units - Week 4,13512.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_065,Demand Surge,1.15,1400,-1,75.0,49800.0,664,AT RISK,Add 276 Units - Week 4,32912.0,388,AT RISK,Add 276 Units - Week 4,32912.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_066,Demand Surge,1.15,1400,-1,125.0,83000.0,664,AT RISK,Add 276 Units - Week 4,52312.0,388,AT RISK,Add 276 Units - Week 4,52312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_067,Demand Surge,1.15,1400,0,25.0,16600.0,664,AT RISK,Add 276 Units - Week 4,13512.0,388,AT RISK,Add 276 Units - Week 4,13512.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_068,Demand Surge,1.15,1400,0,75.0,49800.0,664,AT RISK,Add 276 Units - Week 4,32912.0,388,AT RISK,Add 276 Units - Week 4,32912.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_069,Demand Surge,1.15,1400,0,125.0,83000.0,664,AT RISK,Add 276 Units - Week 4,52312.0,388,AT RISK,Add 276 Units - Week 4,52312.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_070,Demand Surge,1.15,1400,1,25.0,20575.0,823,AT RISK,Add 276 Units - Week 4,24387.0,823,AT RISK,Add 276 Units - Week 5,20575.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_071,Demand Surge,1.15,1400,1,75.0,61725.0,823,AT RISK,Add 276 Units - Week 4,65537.0,823,AT RISK,Add 276 Units - Week 5,61725.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_072,Demand Surge,1.15,1400,1,125.0,102875.0,823,AT RISK,Add 276 Units - Week 4,106687.0,823,AT RISK,Add 276 Units - Week 5,102875.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_073,Demand Surge,1.15,1700,-1,25.0,9100.0,364,AT RISK,Add 276 Units - Week 4,6012.0,88,WATCH,Add 276 Units - Week 4,6012.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_074,Demand Surge,1.15,1700,-1,75.0,27300.0,364,AT RISK,Add 276 Units - Week 4,10412.0,88,WATCH,Add 276 Units - Week 4,10412.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_075,Demand Surge,1.15,1700,-1,125.0,45500.0,364,AT RISK,Add 276 Units - Week 4,14812.0,88,WATCH,Add 276 Units - Week 4,14812.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_076,Demand Surge,1.15,1700,0,25.0,9100.0,364,AT RISK,Add 276 Units - Week 4,6012.0,88,WATCH,Add 276 Units - Week 4,6012.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_077,Demand Surge,1.15,1700,0,75.0,27300.0,364,AT RISK,Add 276 Units - Week 4,10412.0,88,WATCH,Add 276 Units - Week 4,10412.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_078,Demand Surge,1.15,1700,0,125.0,45500.0,364,AT RISK,Add 276 Units - Week 4,14812.0,88,WATCH,Add 276 Units - Week 4,14812.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_079,Demand Surge,1.15,1700,1,25.0,13075.0,523,AT RISK,Add 276 Units - Week 4,16887.0,523,AT RISK,Add 276 Units - Week 5,13075.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_080,Demand Surge,1.15,1700,1,75.0,39225.0,523,AT RISK,Add 276 Units - Week 4,43037.0,523,AT RISK,Add 276 Units - Week 5,39225.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_081,Demand Surge,1.15,1700,1,125.0,65375.0,523,AT RISK,Add 276 Units - Week 4,69187.0,523,AT RISK,Add 276 Units - Week 5,65375.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_082,Supplier Delay,0.85,1100,-1,25.0,5350.0,214,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-2850.0
+CASE_083,Supplier Delay,0.85,1100,-1,75.0,16050.0,214,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-13550.0
+CASE_084,Supplier Delay,0.85,1100,-1,125.0,26750.0,214,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-24250.0
+CASE_085,Supplier Delay,0.85,1100,0,25.0,16300.0,652,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-13800.0
+CASE_086,Supplier Delay,0.85,1100,0,75.0,48900.0,652,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-46400.0
+CASE_087,Supplier Delay,0.85,1100,0,125.0,81500.0,652,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-79000.0
+CASE_088,Supplier Delay,0.85,1100,1,25.0,16300.0,652,AT RISK,Expedite Original 900 - Week 3,7850.0,214,AT RISK,Expedite Original 900 - Week 3,7850.0,AT RISK,False,False,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-7880.0
+CASE_089,Supplier Delay,0.85,1100,1,75.0,48900.0,652,AT RISK,Expedite Original 900 - Week 3,18550.0,214,AT RISK,Bridge 660 Units - Week 3,8420.0,READY,False,True,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-40480.0
+CASE_090,Supplier Delay,0.85,1100,1,125.0,81500.0,652,AT RISK,Expedite Original 900 - Week 3,29250.0,214,AT RISK,Bridge 660 Units - Week 3,8420.0,READY,False,True,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-73080.0
+CASE_091,Supplier Delay,0.85,1400,-1,25.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_092,Supplier Delay,0.85,1400,-1,75.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_093,Supplier Delay,0.85,1400,-1,125.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_094,Supplier Delay,0.85,1400,0,25.0,8800.0,352,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-6300.0
+CASE_095,Supplier Delay,0.85,1400,0,75.0,26400.0,352,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-23900.0
+CASE_096,Supplier Delay,0.85,1400,0,125.0,44000.0,352,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-41500.0
+CASE_097,Supplier Delay,0.85,1400,1,25.0,8800.0,352,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-6300.0
+CASE_098,Supplier Delay,0.85,1400,1,75.0,26400.0,352,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-23900.0
+CASE_099,Supplier Delay,0.85,1400,1,125.0,44000.0,352,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-41500.0
+CASE_100,Supplier Delay,0.85,1700,-1,25.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_101,Supplier Delay,0.85,1700,-1,75.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_102,Supplier Delay,0.85,1700,-1,125.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_103,Supplier Delay,0.85,1700,0,25.0,1300.0,52,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,1300.0,WATCH,True,False,False,Expedite Original 900 - Week 3,2500.0,0.0,True,1200.0
+CASE_104,Supplier Delay,0.85,1700,0,75.0,3900.0,52,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-1400.0
+CASE_105,Supplier Delay,0.85,1700,0,125.0,6500.0,52,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-4000.0
+CASE_106,Supplier Delay,0.85,1700,1,25.0,1300.0,52,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,1300.0,WATCH,True,False,False,Expedite Original 900 - Week 3,2500.0,0.0,True,1200.0
+CASE_107,Supplier Delay,0.85,1700,1,75.0,3900.0,52,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-1400.0
+CASE_108,Supplier Delay,0.85,1700,1,125.0,6500.0,52,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-4000.0
+CASE_109,Supplier Delay,1.0,1100,-1,25.0,11125.0,445,AT RISK,Expedite Original 900 - Week 3,4000.0,60,WATCH,Expedite Original 900 - Week 3,4000.0,WATCH,False,False,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-2705.0
+CASE_110,Supplier Delay,1.0,1100,-1,75.0,33375.0,445,AT RISK,Expedite Original 900 - Week 3,7000.0,60,WATCH,Expedite Original 900 - Week 3,7000.0,WATCH,False,False,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-24955.0
+CASE_111,Supplier Delay,1.0,1100,-1,125.0,55625.0,445,AT RISK,Expedite Original 900 - Week 3,10000.0,60,WATCH,Bridge 660 Units - Week 3,8420.0,READY,False,True,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-47205.0
+CASE_112,Supplier Delay,1.0,1100,0,25.0,24000.0,960,AT RISK,Expedite Original 900 - Week 3,4000.0,60,WATCH,Expedite Original 900 - Week 3,4000.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_113,Supplier Delay,1.0,1100,0,75.0,72000.0,960,AT RISK,Expedite Original 900 - Week 3,7000.0,60,WATCH,Expedite Original 900 - Week 3,7000.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_114,Supplier Delay,1.0,1100,0,125.0,120000.0,960,AT RISK,Expedite Original 900 - Week 3,10000.0,60,WATCH,Expedite Original 900 - Week 3,10000.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_115,Supplier Delay,1.0,1100,1,25.0,24000.0,960,AT RISK,Expedite Original 900 - Week 3,13625.0,445,AT RISK,Expedite Original 900 - Week 3,13625.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_116,Supplier Delay,1.0,1100,1,75.0,72000.0,960,AT RISK,Expedite Original 900 - Week 3,35875.0,445,AT RISK,Bridge 660 Units - Week 3,30920.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_117,Supplier Delay,1.0,1100,1,125.0,120000.0,960,AT RISK,Expedite Original 900 - Week 3,58125.0,445,AT RISK,Bridge 660 Units - Week 3,45920.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_118,Supplier Delay,1.0,1400,-1,25.0,3625.0,145,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-1125.0
+CASE_119,Supplier Delay,1.0,1400,-1,75.0,10875.0,145,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-8375.0
+CASE_120,Supplier Delay,1.0,1400,-1,125.0,18125.0,145,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-15625.0
+CASE_121,Supplier Delay,1.0,1400,0,25.0,16500.0,660,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-14000.0
+CASE_122,Supplier Delay,1.0,1400,0,75.0,49500.0,660,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-47000.0
+CASE_123,Supplier Delay,1.0,1400,0,125.0,82500.0,660,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-80000.0
+CASE_124,Supplier Delay,1.0,1400,1,25.0,16500.0,660,AT RISK,Expedite Original 900 - Week 3,6125.0,145,WATCH,Expedite Original 900 - Week 3,6125.0,WATCH,False,False,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-8080.0
+CASE_125,Supplier Delay,1.0,1400,1,75.0,49500.0,660,AT RISK,Expedite Original 900 - Week 3,13375.0,145,WATCH,Bridge 660 Units - Week 3,8420.0,READY,False,True,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-41080.0
+CASE_126,Supplier Delay,1.0,1400,1,125.0,82500.0,660,AT RISK,Expedite Original 900 - Week 3,20625.0,145,WATCH,Bridge 660 Units - Week 3,8420.0,READY,False,True,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-74080.0
+CASE_127,Supplier Delay,1.0,1700,-1,25.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_128,Supplier Delay,1.0,1700,-1,75.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_129,Supplier Delay,1.0,1700,-1,125.0,0.0,0,READY,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,0.0,READY,True,True,True,No Intervention,0.0,0.0,True,0.0
+CASE_130,Supplier Delay,1.0,1700,0,25.0,9000.0,360,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-6500.0
+CASE_131,Supplier Delay,1.0,1700,0,75.0,27000.0,360,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-24500.0
+CASE_132,Supplier Delay,1.0,1700,0,125.0,45000.0,360,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-42500.0
+CASE_133,Supplier Delay,1.0,1700,1,25.0,9000.0,360,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-6500.0
+CASE_134,Supplier Delay,1.0,1700,1,75.0,27000.0,360,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-24500.0
+CASE_135,Supplier Delay,1.0,1700,1,125.0,45000.0,360,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-42500.0
+CASE_136,Supplier Delay,1.15,1100,-1,25.0,16975.0,679,AT RISK,Expedite Original 900 - Week 3,11800.0,372,AT RISK,Bridge 660 Units - Week 3,10570.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_137,Supplier Delay,1.15,1100,-1,75.0,50925.0,679,AT RISK,Expedite Original 900 - Week 3,30400.0,372,AT RISK,Bridge 660 Units - Week 3,14870.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_138,Supplier Delay,1.15,1100,-1,125.0,84875.0,679,AT RISK,Expedite Original 900 - Week 3,49000.0,372,AT RISK,Bridge 660 Units - Week 3,19170.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_139,Supplier Delay,1.15,1100,0,25.0,31800.0,1272,AT RISK,Expedite Original 900 - Week 3,11800.0,372,AT RISK,Expedite Original 900 - Week 3,11800.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_140,Supplier Delay,1.15,1100,0,75.0,95400.0,1272,AT RISK,Expedite Original 900 - Week 3,30400.0,372,AT RISK,Expedite Original 900 - Week 3,30400.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_141,Supplier Delay,1.15,1100,0,125.0,159000.0,1272,AT RISK,Expedite Original 900 - Week 3,49000.0,372,AT RISK,Expedite Original 900 - Week 3,49000.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_142,Supplier Delay,1.15,1100,1,25.0,31800.0,1272,AT RISK,Expedite Original 900 - Week 3,19475.0,679,AT RISK,Expedite Original 900 - Week 3,19475.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_143,Supplier Delay,1.15,1100,1,75.0,95400.0,1272,AT RISK,Expedite Original 900 - Week 3,53425.0,679,AT RISK,Expedite Original 900 - Week 3,53425.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_144,Supplier Delay,1.15,1100,1,125.0,159000.0,1272,AT RISK,Expedite Original 900 - Week 3,87375.0,679,AT RISK,Bridge 660 Units - Week 3,84920.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_145,Supplier Delay,1.15,1400,-1,25.0,9475.0,379,AT RISK,Expedite Original 900 - Week 3,4300.0,72,WATCH,Expedite Original 900 - Week 3,4300.0,WATCH,False,False,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-1055.0
+CASE_146,Supplier Delay,1.15,1400,-1,75.0,28425.0,379,AT RISK,Expedite Original 900 - Week 3,7900.0,72,WATCH,Expedite Original 900 - Week 3,7900.0,WATCH,False,False,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-20005.0
+CASE_147,Supplier Delay,1.15,1400,-1,125.0,47375.0,379,AT RISK,Expedite Original 900 - Week 3,11500.0,72,WATCH,Bridge 660 Units - Week 3,8420.0,READY,False,True,False,Bridge 660 Units - Week 3,8420.0,0.0,True,-38955.0
+CASE_148,Supplier Delay,1.15,1400,0,25.0,24300.0,972,AT RISK,Expedite Original 900 - Week 3,4300.0,72,WATCH,Expedite Original 900 - Week 3,4300.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_149,Supplier Delay,1.15,1400,0,75.0,72900.0,972,AT RISK,Expedite Original 900 - Week 3,7900.0,72,WATCH,Expedite Original 900 - Week 3,7900.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_150,Supplier Delay,1.15,1400,0,125.0,121500.0,972,AT RISK,Expedite Original 900 - Week 3,11500.0,72,WATCH,Expedite Original 900 - Week 3,11500.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_151,Supplier Delay,1.15,1400,1,25.0,24300.0,972,AT RISK,Expedite Original 900 - Week 3,11975.0,379,AT RISK,Expedite Original 900 - Week 3,11975.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_152,Supplier Delay,1.15,1400,1,75.0,72900.0,972,AT RISK,Expedite Original 900 - Week 3,30925.0,379,AT RISK,Expedite Original 900 - Week 3,30925.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_153,Supplier Delay,1.15,1400,1,125.0,121500.0,972,AT RISK,Expedite Original 900 - Week 3,49875.0,379,AT RISK,Bridge 660 Units - Week 3,47420.0,AT RISK,False,False,False,NO READY OPTION,,,False,
+CASE_154,Supplier Delay,1.15,1700,-1,25.0,1975.0,79,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,No Intervention,1975.0,WATCH,True,False,False,Expedite Original 900 - Week 3,2500.0,0.0,True,525.0
+CASE_155,Supplier Delay,1.15,1700,-1,75.0,5925.0,79,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-3425.0
+CASE_156,Supplier Delay,1.15,1700,-1,125.0,9875.0,79,WATCH,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-7375.0
+CASE_157,Supplier Delay,1.15,1700,0,25.0,16800.0,672,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-14300.0
+CASE_158,Supplier Delay,1.15,1700,0,75.0,50400.0,672,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-47900.0
+CASE_159,Supplier Delay,1.15,1700,0,125.0,84000.0,672,AT RISK,Expedite Original 900 - Week 3,2500.0,0,READY,Expedite Original 900 - Week 3,2500.0,READY,True,True,False,Expedite Original 900 - Week 3,2500.0,0.0,True,-81500.0
+CASE_160,Supplier Delay,1.15,1700,1,25.0,16800.0,672,AT RISK,Expedite Original 900 - Week 3,4475.0,79,WATCH,Expedite Original 900 - Week 3,4475.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_161,Supplier Delay,1.15,1700,1,75.0,50400.0,672,AT RISK,Expedite Original 900 - Week 3,8425.0,79,WATCH,Expedite Original 900 - Week 3,8425.0,WATCH,False,False,False,NO READY OPTION,,,False,
+CASE_162,Supplier Delay,1.15,1700,1,125.0,84000.0,672,AT RISK,Expedite Original 900 - Week 3,12375.0,79,WATCH,Bridge 660 Units - Week 3,9920.0,WATCH,False,False,False,NO READY OPTION,,,False,

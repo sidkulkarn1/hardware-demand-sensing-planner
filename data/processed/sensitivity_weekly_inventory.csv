@@ -1,0 +1,2269 @@
+Case_ID,Scenario,Action,Week,Forecast_Week,Beginning_Inventory,Original_Receipts,Extra_Receipts,Demand_Units,Fulfilled_Units,Shortage_Units,Ending_Inventory
+CASE_001,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_001,Demand Surge,No Intervention,2,2020-01-12,552,900,0,548,548,0,904
+CASE_001,Demand Surge,No Intervention,3,2020-01-19,904,0,0,548,548,0,356
+CASE_001,Demand Surge,No Intervention,4,2020-01-26,356,0,0,548,356,192,0
+CASE_001,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_001,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,900,0,548,548,0,904
+CASE_001,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,904,0,0,548,548,0,356
+CASE_001,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,356,0,276,548,548,0,84
+CASE_001,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_001,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,900,0,548,548,0,904
+CASE_001,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,904,0,0,548,548,0,356
+CASE_001,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,356,0,0,548,356,192,0
+CASE_002,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_002,Demand Surge,No Intervention,2,2020-01-12,552,900,0,548,548,0,904
+CASE_002,Demand Surge,No Intervention,3,2020-01-19,904,0,0,548,548,0,356
+CASE_002,Demand Surge,No Intervention,4,2020-01-26,356,0,0,548,356,192,0
+CASE_002,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_002,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,900,0,548,548,0,904
+CASE_002,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,904,0,0,548,548,0,356
+CASE_002,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,356,0,276,548,548,0,84
+CASE_002,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_002,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,900,0,548,548,0,904
+CASE_002,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,904,0,0,548,548,0,356
+CASE_002,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,356,0,0,548,356,192,0
+CASE_003,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_003,Demand Surge,No Intervention,2,2020-01-12,552,900,0,548,548,0,904
+CASE_003,Demand Surge,No Intervention,3,2020-01-19,904,0,0,548,548,0,356
+CASE_003,Demand Surge,No Intervention,4,2020-01-26,356,0,0,548,356,192,0
+CASE_003,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_003,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,900,0,548,548,0,904
+CASE_003,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,904,0,0,548,548,0,356
+CASE_003,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,356,0,276,548,548,0,84
+CASE_003,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_003,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,900,0,548,548,0,904
+CASE_003,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,904,0,0,548,548,0,356
+CASE_003,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,356,0,0,548,356,192,0
+CASE_004,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_004,Demand Surge,No Intervention,2,2020-01-12,552,0,0,548,548,0,4
+CASE_004,Demand Surge,No Intervention,3,2020-01-19,4,900,0,548,548,0,356
+CASE_004,Demand Surge,No Intervention,4,2020-01-26,356,0,0,548,356,192,0
+CASE_004,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_004,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,0,0,548,548,0,4
+CASE_004,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,4,900,0,548,548,0,356
+CASE_004,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,356,0,276,548,548,0,84
+CASE_004,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_004,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,0,0,548,548,0,4
+CASE_004,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,4,900,0,548,548,0,356
+CASE_004,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,356,0,0,548,356,192,0
+CASE_005,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_005,Demand Surge,No Intervention,2,2020-01-12,552,0,0,548,548,0,4
+CASE_005,Demand Surge,No Intervention,3,2020-01-19,4,900,0,548,548,0,356
+CASE_005,Demand Surge,No Intervention,4,2020-01-26,356,0,0,548,356,192,0
+CASE_005,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_005,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,0,0,548,548,0,4
+CASE_005,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,4,900,0,548,548,0,356
+CASE_005,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,356,0,276,548,548,0,84
+CASE_005,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_005,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,0,0,548,548,0,4
+CASE_005,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,4,900,0,548,548,0,356
+CASE_005,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,356,0,0,548,356,192,0
+CASE_006,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_006,Demand Surge,No Intervention,2,2020-01-12,552,0,0,548,548,0,4
+CASE_006,Demand Surge,No Intervention,3,2020-01-19,4,900,0,548,548,0,356
+CASE_006,Demand Surge,No Intervention,4,2020-01-26,356,0,0,548,356,192,0
+CASE_006,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_006,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,0,0,548,548,0,4
+CASE_006,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,4,900,0,548,548,0,356
+CASE_006,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,356,0,276,548,548,0,84
+CASE_006,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_006,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,0,0,548,548,0,4
+CASE_006,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,4,900,0,548,548,0,356
+CASE_006,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,356,0,0,548,356,192,0
+CASE_007,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_007,Demand Surge,No Intervention,2,2020-01-12,552,0,0,548,548,0,4
+CASE_007,Demand Surge,No Intervention,3,2020-01-19,4,0,0,548,4,544,0
+CASE_007,Demand Surge,No Intervention,4,2020-01-26,0,900,0,548,548,0,352
+CASE_007,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_007,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,0,0,548,548,0,4
+CASE_007,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,4,0,0,548,4,544,0
+CASE_007,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,548,548,0,628
+CASE_007,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_007,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,0,0,548,548,0,4
+CASE_007,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,4,0,0,548,4,544,0
+CASE_007,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,548,548,0,352
+CASE_008,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_008,Demand Surge,No Intervention,2,2020-01-12,552,0,0,548,548,0,4
+CASE_008,Demand Surge,No Intervention,3,2020-01-19,4,0,0,548,4,544,0
+CASE_008,Demand Surge,No Intervention,4,2020-01-26,0,900,0,548,548,0,352
+CASE_008,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_008,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,0,0,548,548,0,4
+CASE_008,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,4,0,0,548,4,544,0
+CASE_008,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,548,548,0,628
+CASE_008,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_008,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,0,0,548,548,0,4
+CASE_008,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,4,0,0,548,4,544,0
+CASE_008,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,548,548,0,352
+CASE_009,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_009,Demand Surge,No Intervention,2,2020-01-12,552,0,0,548,548,0,4
+CASE_009,Demand Surge,No Intervention,3,2020-01-19,4,0,0,548,4,544,0
+CASE_009,Demand Surge,No Intervention,4,2020-01-26,0,900,0,548,548,0,352
+CASE_009,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_009,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,552,0,0,548,548,0,4
+CASE_009,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,4,0,0,548,4,544,0
+CASE_009,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,548,548,0,628
+CASE_009,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,548,548,0,552
+CASE_009,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,552,0,0,548,548,0,4
+CASE_009,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,4,0,0,548,4,544,0
+CASE_009,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,548,548,0,352
+CASE_010,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_010,Demand Surge,No Intervention,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_010,Demand Surge,No Intervention,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_010,Demand Surge,No Intervention,4,2020-01-26,656,0,0,548,548,0,108
+CASE_010,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_010,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_010,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_010,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,656,0,276,548,548,0,384
+CASE_010,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_010,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_010,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_010,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,656,0,0,548,548,0,108
+CASE_011,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_011,Demand Surge,No Intervention,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_011,Demand Surge,No Intervention,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_011,Demand Surge,No Intervention,4,2020-01-26,656,0,0,548,548,0,108
+CASE_011,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_011,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_011,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_011,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,656,0,276,548,548,0,384
+CASE_011,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_011,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_011,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_011,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,656,0,0,548,548,0,108
+CASE_012,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_012,Demand Surge,No Intervention,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_012,Demand Surge,No Intervention,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_012,Demand Surge,No Intervention,4,2020-01-26,656,0,0,548,548,0,108
+CASE_012,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_012,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_012,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_012,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,656,0,276,548,548,0,384
+CASE_012,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_012,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,900,0,548,548,0,1204
+CASE_012,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1204,0,0,548,548,0,656
+CASE_012,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,656,0,0,548,548,0,108
+CASE_013,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_013,Demand Surge,No Intervention,2,2020-01-12,852,0,0,548,548,0,304
+CASE_013,Demand Surge,No Intervention,3,2020-01-19,304,900,0,548,548,0,656
+CASE_013,Demand Surge,No Intervention,4,2020-01-26,656,0,0,548,548,0,108
+CASE_013,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_013,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,0,0,548,548,0,304
+CASE_013,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,304,900,0,548,548,0,656
+CASE_013,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,656,0,276,548,548,0,384
+CASE_013,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_013,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,0,0,548,548,0,304
+CASE_013,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,304,900,0,548,548,0,656
+CASE_013,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,656,0,0,548,548,0,108
+CASE_014,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_014,Demand Surge,No Intervention,2,2020-01-12,852,0,0,548,548,0,304
+CASE_014,Demand Surge,No Intervention,3,2020-01-19,304,900,0,548,548,0,656
+CASE_014,Demand Surge,No Intervention,4,2020-01-26,656,0,0,548,548,0,108
+CASE_014,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_014,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,0,0,548,548,0,304
+CASE_014,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,304,900,0,548,548,0,656
+CASE_014,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,656,0,276,548,548,0,384
+CASE_014,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_014,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,0,0,548,548,0,304
+CASE_014,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,304,900,0,548,548,0,656
+CASE_014,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,656,0,0,548,548,0,108
+CASE_015,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_015,Demand Surge,No Intervention,2,2020-01-12,852,0,0,548,548,0,304
+CASE_015,Demand Surge,No Intervention,3,2020-01-19,304,900,0,548,548,0,656
+CASE_015,Demand Surge,No Intervention,4,2020-01-26,656,0,0,548,548,0,108
+CASE_015,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_015,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,0,0,548,548,0,304
+CASE_015,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,304,900,0,548,548,0,656
+CASE_015,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,656,0,276,548,548,0,384
+CASE_015,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_015,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,0,0,548,548,0,304
+CASE_015,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,304,900,0,548,548,0,656
+CASE_015,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,656,0,0,548,548,0,108
+CASE_016,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_016,Demand Surge,No Intervention,2,2020-01-12,852,0,0,548,548,0,304
+CASE_016,Demand Surge,No Intervention,3,2020-01-19,304,0,0,548,304,244,0
+CASE_016,Demand Surge,No Intervention,4,2020-01-26,0,900,0,548,548,0,352
+CASE_016,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_016,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,0,0,548,548,0,304
+CASE_016,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,304,0,0,548,304,244,0
+CASE_016,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,548,548,0,628
+CASE_016,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_016,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,0,0,548,548,0,304
+CASE_016,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,304,0,0,548,304,244,0
+CASE_016,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,548,548,0,352
+CASE_017,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_017,Demand Surge,No Intervention,2,2020-01-12,852,0,0,548,548,0,304
+CASE_017,Demand Surge,No Intervention,3,2020-01-19,304,0,0,548,304,244,0
+CASE_017,Demand Surge,No Intervention,4,2020-01-26,0,900,0,548,548,0,352
+CASE_017,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_017,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,0,0,548,548,0,304
+CASE_017,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,304,0,0,548,304,244,0
+CASE_017,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,548,548,0,628
+CASE_017,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_017,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,0,0,548,548,0,304
+CASE_017,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,304,0,0,548,304,244,0
+CASE_017,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,548,548,0,352
+CASE_018,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_018,Demand Surge,No Intervention,2,2020-01-12,852,0,0,548,548,0,304
+CASE_018,Demand Surge,No Intervention,3,2020-01-19,304,0,0,548,304,244,0
+CASE_018,Demand Surge,No Intervention,4,2020-01-26,0,900,0,548,548,0,352
+CASE_018,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_018,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,852,0,0,548,548,0,304
+CASE_018,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,304,0,0,548,304,244,0
+CASE_018,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,548,548,0,628
+CASE_018,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,548,548,0,852
+CASE_018,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,852,0,0,548,548,0,304
+CASE_018,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,304,0,0,548,304,244,0
+CASE_018,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,548,548,0,352
+CASE_019,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_019,Demand Surge,No Intervention,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_019,Demand Surge,No Intervention,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_019,Demand Surge,No Intervention,4,2020-01-26,956,0,0,548,548,0,408
+CASE_019,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_019,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_019,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_019,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,956,0,276,548,548,0,684
+CASE_019,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_019,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_019,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_019,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,956,0,0,548,548,0,408
+CASE_020,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_020,Demand Surge,No Intervention,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_020,Demand Surge,No Intervention,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_020,Demand Surge,No Intervention,4,2020-01-26,956,0,0,548,548,0,408
+CASE_020,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_020,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_020,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_020,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,956,0,276,548,548,0,684
+CASE_020,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_020,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_020,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_020,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,956,0,0,548,548,0,408
+CASE_021,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_021,Demand Surge,No Intervention,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_021,Demand Surge,No Intervention,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_021,Demand Surge,No Intervention,4,2020-01-26,956,0,0,548,548,0,408
+CASE_021,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_021,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_021,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_021,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,956,0,276,548,548,0,684
+CASE_021,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_021,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,900,0,548,548,0,1504
+CASE_021,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1504,0,0,548,548,0,956
+CASE_021,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,956,0,0,548,548,0,408
+CASE_022,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_022,Demand Surge,No Intervention,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_022,Demand Surge,No Intervention,3,2020-01-19,604,900,0,548,548,0,956
+CASE_022,Demand Surge,No Intervention,4,2020-01-26,956,0,0,548,548,0,408
+CASE_022,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_022,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_022,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,604,900,0,548,548,0,956
+CASE_022,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,956,0,276,548,548,0,684
+CASE_022,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_022,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_022,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,604,900,0,548,548,0,956
+CASE_022,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,956,0,0,548,548,0,408
+CASE_023,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_023,Demand Surge,No Intervention,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_023,Demand Surge,No Intervention,3,2020-01-19,604,900,0,548,548,0,956
+CASE_023,Demand Surge,No Intervention,4,2020-01-26,956,0,0,548,548,0,408
+CASE_023,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_023,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_023,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,604,900,0,548,548,0,956
+CASE_023,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,956,0,276,548,548,0,684
+CASE_023,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_023,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_023,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,604,900,0,548,548,0,956
+CASE_023,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,956,0,0,548,548,0,408
+CASE_024,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_024,Demand Surge,No Intervention,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_024,Demand Surge,No Intervention,3,2020-01-19,604,900,0,548,548,0,956
+CASE_024,Demand Surge,No Intervention,4,2020-01-26,956,0,0,548,548,0,408
+CASE_024,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_024,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_024,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,604,900,0,548,548,0,956
+CASE_024,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,956,0,276,548,548,0,684
+CASE_024,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_024,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_024,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,604,900,0,548,548,0,956
+CASE_024,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,956,0,0,548,548,0,408
+CASE_025,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_025,Demand Surge,No Intervention,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_025,Demand Surge,No Intervention,3,2020-01-19,604,0,0,548,548,0,56
+CASE_025,Demand Surge,No Intervention,4,2020-01-26,56,900,0,548,548,0,408
+CASE_025,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_025,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_025,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,604,0,0,548,548,0,56
+CASE_025,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,56,900,276,548,548,0,684
+CASE_025,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_025,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_025,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,604,0,0,548,548,0,56
+CASE_025,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,56,900,0,548,548,0,408
+CASE_026,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_026,Demand Surge,No Intervention,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_026,Demand Surge,No Intervention,3,2020-01-19,604,0,0,548,548,0,56
+CASE_026,Demand Surge,No Intervention,4,2020-01-26,56,900,0,548,548,0,408
+CASE_026,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_026,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_026,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,604,0,0,548,548,0,56
+CASE_026,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,56,900,276,548,548,0,684
+CASE_026,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_026,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_026,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,604,0,0,548,548,0,56
+CASE_026,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,56,900,0,548,548,0,408
+CASE_027,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_027,Demand Surge,No Intervention,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_027,Demand Surge,No Intervention,3,2020-01-19,604,0,0,548,548,0,56
+CASE_027,Demand Surge,No Intervention,4,2020-01-26,56,900,0,548,548,0,408
+CASE_027,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_027,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_027,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,604,0,0,548,548,0,56
+CASE_027,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,56,900,276,548,548,0,684
+CASE_027,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,548,548,0,1152
+CASE_027,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1152,0,0,548,548,0,604
+CASE_027,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,604,0,0,548,548,0,56
+CASE_027,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,56,900,0,548,548,0,408
+CASE_028,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_028,Demand Surge,No Intervention,2,2020-01-12,456,900,0,644,644,0,712
+CASE_028,Demand Surge,No Intervention,3,2020-01-19,712,0,0,644,644,0,68
+CASE_028,Demand Surge,No Intervention,4,2020-01-26,68,0,0,644,68,576,0
+CASE_028,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_028,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,900,0,644,644,0,712
+CASE_028,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,712,0,0,644,644,0,68
+CASE_028,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,68,0,276,644,344,300,0
+CASE_028,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_028,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,900,0,644,644,0,712
+CASE_028,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,712,0,0,644,644,0,68
+CASE_028,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,68,0,0,644,68,576,0
+CASE_029,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_029,Demand Surge,No Intervention,2,2020-01-12,456,900,0,644,644,0,712
+CASE_029,Demand Surge,No Intervention,3,2020-01-19,712,0,0,644,644,0,68
+CASE_029,Demand Surge,No Intervention,4,2020-01-26,68,0,0,644,68,576,0
+CASE_029,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_029,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,900,0,644,644,0,712
+CASE_029,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,712,0,0,644,644,0,68
+CASE_029,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,68,0,276,644,344,300,0
+CASE_029,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_029,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,900,0,644,644,0,712
+CASE_029,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,712,0,0,644,644,0,68
+CASE_029,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,68,0,0,644,68,576,0
+CASE_030,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_030,Demand Surge,No Intervention,2,2020-01-12,456,900,0,644,644,0,712
+CASE_030,Demand Surge,No Intervention,3,2020-01-19,712,0,0,644,644,0,68
+CASE_030,Demand Surge,No Intervention,4,2020-01-26,68,0,0,644,68,576,0
+CASE_030,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_030,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,900,0,644,644,0,712
+CASE_030,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,712,0,0,644,644,0,68
+CASE_030,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,68,0,276,644,344,300,0
+CASE_030,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_030,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,900,0,644,644,0,712
+CASE_030,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,712,0,0,644,644,0,68
+CASE_030,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,68,0,0,644,68,576,0
+CASE_031,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_031,Demand Surge,No Intervention,2,2020-01-12,456,0,0,644,456,188,0
+CASE_031,Demand Surge,No Intervention,3,2020-01-19,0,900,0,644,644,0,256
+CASE_031,Demand Surge,No Intervention,4,2020-01-26,256,0,0,644,256,388,0
+CASE_031,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_031,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,0,0,644,456,188,0
+CASE_031,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,644,644,0,256
+CASE_031,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,256,0,276,644,532,112,0
+CASE_031,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_031,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,0,0,644,456,188,0
+CASE_031,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,644,644,0,256
+CASE_031,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,256,0,0,644,256,388,0
+CASE_032,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_032,Demand Surge,No Intervention,2,2020-01-12,456,0,0,644,456,188,0
+CASE_032,Demand Surge,No Intervention,3,2020-01-19,0,900,0,644,644,0,256
+CASE_032,Demand Surge,No Intervention,4,2020-01-26,256,0,0,644,256,388,0
+CASE_032,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_032,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,0,0,644,456,188,0
+CASE_032,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,644,644,0,256
+CASE_032,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,256,0,276,644,532,112,0
+CASE_032,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_032,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,0,0,644,456,188,0
+CASE_032,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,644,644,0,256
+CASE_032,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,256,0,0,644,256,388,0
+CASE_033,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_033,Demand Surge,No Intervention,2,2020-01-12,456,0,0,644,456,188,0
+CASE_033,Demand Surge,No Intervention,3,2020-01-19,0,900,0,644,644,0,256
+CASE_033,Demand Surge,No Intervention,4,2020-01-26,256,0,0,644,256,388,0
+CASE_033,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_033,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,0,0,644,456,188,0
+CASE_033,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,644,644,0,256
+CASE_033,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,256,0,276,644,532,112,0
+CASE_033,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_033,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,0,0,644,456,188,0
+CASE_033,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,644,644,0,256
+CASE_033,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,256,0,0,644,256,388,0
+CASE_034,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_034,Demand Surge,No Intervention,2,2020-01-12,456,0,0,644,456,188,0
+CASE_034,Demand Surge,No Intervention,3,2020-01-19,0,0,0,644,0,644,0
+CASE_034,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_034,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_034,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,0,0,644,456,188,0
+CASE_034,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,644,0,644,0
+CASE_034,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_034,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_034,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,0,0,644,456,188,0
+CASE_034,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,644,0,644,0
+CASE_034,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_035,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_035,Demand Surge,No Intervention,2,2020-01-12,456,0,0,644,456,188,0
+CASE_035,Demand Surge,No Intervention,3,2020-01-19,0,0,0,644,0,644,0
+CASE_035,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_035,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_035,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,0,0,644,456,188,0
+CASE_035,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,644,0,644,0
+CASE_035,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_035,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_035,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,0,0,644,456,188,0
+CASE_035,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,644,0,644,0
+CASE_035,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_036,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_036,Demand Surge,No Intervention,2,2020-01-12,456,0,0,644,456,188,0
+CASE_036,Demand Surge,No Intervention,3,2020-01-19,0,0,0,644,0,644,0
+CASE_036,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_036,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_036,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,456,0,0,644,456,188,0
+CASE_036,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,644,0,644,0
+CASE_036,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_036,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,644,644,0,456
+CASE_036,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,456,0,0,644,456,188,0
+CASE_036,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,644,0,644,0
+CASE_036,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_037,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_037,Demand Surge,No Intervention,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_037,Demand Surge,No Intervention,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_037,Demand Surge,No Intervention,4,2020-01-26,368,0,0,644,368,276,0
+CASE_037,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_037,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_037,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_037,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,368,0,276,644,644,0,0
+CASE_037,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_037,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_037,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_037,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,368,0,0,644,368,276,0
+CASE_038,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_038,Demand Surge,No Intervention,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_038,Demand Surge,No Intervention,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_038,Demand Surge,No Intervention,4,2020-01-26,368,0,0,644,368,276,0
+CASE_038,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_038,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_038,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_038,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,368,0,276,644,644,0,0
+CASE_038,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_038,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_038,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_038,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,368,0,0,644,368,276,0
+CASE_039,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_039,Demand Surge,No Intervention,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_039,Demand Surge,No Intervention,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_039,Demand Surge,No Intervention,4,2020-01-26,368,0,0,644,368,276,0
+CASE_039,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_039,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_039,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_039,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,368,0,276,644,644,0,0
+CASE_039,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_039,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,900,0,644,644,0,1012
+CASE_039,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1012,0,0,644,644,0,368
+CASE_039,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,368,0,0,644,368,276,0
+CASE_040,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_040,Demand Surge,No Intervention,2,2020-01-12,756,0,0,644,644,0,112
+CASE_040,Demand Surge,No Intervention,3,2020-01-19,112,900,0,644,644,0,368
+CASE_040,Demand Surge,No Intervention,4,2020-01-26,368,0,0,644,368,276,0
+CASE_040,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_040,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,0,0,644,644,0,112
+CASE_040,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,112,900,0,644,644,0,368
+CASE_040,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,368,0,276,644,644,0,0
+CASE_040,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_040,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,0,0,644,644,0,112
+CASE_040,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,112,900,0,644,644,0,368
+CASE_040,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,368,0,0,644,368,276,0
+CASE_041,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_041,Demand Surge,No Intervention,2,2020-01-12,756,0,0,644,644,0,112
+CASE_041,Demand Surge,No Intervention,3,2020-01-19,112,900,0,644,644,0,368
+CASE_041,Demand Surge,No Intervention,4,2020-01-26,368,0,0,644,368,276,0
+CASE_041,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_041,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,0,0,644,644,0,112
+CASE_041,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,112,900,0,644,644,0,368
+CASE_041,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,368,0,276,644,644,0,0
+CASE_041,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_041,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,0,0,644,644,0,112
+CASE_041,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,112,900,0,644,644,0,368
+CASE_041,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,368,0,0,644,368,276,0
+CASE_042,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_042,Demand Surge,No Intervention,2,2020-01-12,756,0,0,644,644,0,112
+CASE_042,Demand Surge,No Intervention,3,2020-01-19,112,900,0,644,644,0,368
+CASE_042,Demand Surge,No Intervention,4,2020-01-26,368,0,0,644,368,276,0
+CASE_042,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_042,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,0,0,644,644,0,112
+CASE_042,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,112,900,0,644,644,0,368
+CASE_042,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,368,0,276,644,644,0,0
+CASE_042,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_042,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,0,0,644,644,0,112
+CASE_042,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,112,900,0,644,644,0,368
+CASE_042,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,368,0,0,644,368,276,0
+CASE_043,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_043,Demand Surge,No Intervention,2,2020-01-12,756,0,0,644,644,0,112
+CASE_043,Demand Surge,No Intervention,3,2020-01-19,112,0,0,644,112,532,0
+CASE_043,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_043,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_043,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,0,0,644,644,0,112
+CASE_043,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,112,0,0,644,112,532,0
+CASE_043,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_043,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_043,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,0,0,644,644,0,112
+CASE_043,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,112,0,0,644,112,532,0
+CASE_043,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_044,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_044,Demand Surge,No Intervention,2,2020-01-12,756,0,0,644,644,0,112
+CASE_044,Demand Surge,No Intervention,3,2020-01-19,112,0,0,644,112,532,0
+CASE_044,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_044,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_044,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,0,0,644,644,0,112
+CASE_044,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,112,0,0,644,112,532,0
+CASE_044,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_044,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_044,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,0,0,644,644,0,112
+CASE_044,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,112,0,0,644,112,532,0
+CASE_044,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_045,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_045,Demand Surge,No Intervention,2,2020-01-12,756,0,0,644,644,0,112
+CASE_045,Demand Surge,No Intervention,3,2020-01-19,112,0,0,644,112,532,0
+CASE_045,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_045,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_045,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,756,0,0,644,644,0,112
+CASE_045,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,112,0,0,644,112,532,0
+CASE_045,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_045,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,644,644,0,756
+CASE_045,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,756,0,0,644,644,0,112
+CASE_045,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,112,0,0,644,112,532,0
+CASE_045,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_046,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_046,Demand Surge,No Intervention,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_046,Demand Surge,No Intervention,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_046,Demand Surge,No Intervention,4,2020-01-26,668,0,0,644,644,0,24
+CASE_046,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_046,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_046,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_046,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,668,0,276,644,644,0,300
+CASE_046,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_046,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_046,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_046,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,668,0,0,644,644,0,24
+CASE_047,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_047,Demand Surge,No Intervention,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_047,Demand Surge,No Intervention,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_047,Demand Surge,No Intervention,4,2020-01-26,668,0,0,644,644,0,24
+CASE_047,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_047,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_047,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_047,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,668,0,276,644,644,0,300
+CASE_047,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_047,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_047,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_047,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,668,0,0,644,644,0,24
+CASE_048,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_048,Demand Surge,No Intervention,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_048,Demand Surge,No Intervention,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_048,Demand Surge,No Intervention,4,2020-01-26,668,0,0,644,644,0,24
+CASE_048,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_048,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_048,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_048,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,668,0,276,644,644,0,300
+CASE_048,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_048,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,900,0,644,644,0,1312
+CASE_048,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1312,0,0,644,644,0,668
+CASE_048,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,668,0,0,644,644,0,24
+CASE_049,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_049,Demand Surge,No Intervention,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_049,Demand Surge,No Intervention,3,2020-01-19,412,900,0,644,644,0,668
+CASE_049,Demand Surge,No Intervention,4,2020-01-26,668,0,0,644,644,0,24
+CASE_049,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_049,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_049,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,412,900,0,644,644,0,668
+CASE_049,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,668,0,276,644,644,0,300
+CASE_049,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_049,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_049,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,412,900,0,644,644,0,668
+CASE_049,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,668,0,0,644,644,0,24
+CASE_050,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_050,Demand Surge,No Intervention,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_050,Demand Surge,No Intervention,3,2020-01-19,412,900,0,644,644,0,668
+CASE_050,Demand Surge,No Intervention,4,2020-01-26,668,0,0,644,644,0,24
+CASE_050,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_050,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_050,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,412,900,0,644,644,0,668
+CASE_050,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,668,0,276,644,644,0,300
+CASE_050,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_050,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_050,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,412,900,0,644,644,0,668
+CASE_050,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,668,0,0,644,644,0,24
+CASE_051,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_051,Demand Surge,No Intervention,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_051,Demand Surge,No Intervention,3,2020-01-19,412,900,0,644,644,0,668
+CASE_051,Demand Surge,No Intervention,4,2020-01-26,668,0,0,644,644,0,24
+CASE_051,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_051,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_051,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,412,900,0,644,644,0,668
+CASE_051,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,668,0,276,644,644,0,300
+CASE_051,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_051,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_051,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,412,900,0,644,644,0,668
+CASE_051,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,668,0,0,644,644,0,24
+CASE_052,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_052,Demand Surge,No Intervention,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_052,Demand Surge,No Intervention,3,2020-01-19,412,0,0,644,412,232,0
+CASE_052,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_052,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_052,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_052,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,412,0,0,644,412,232,0
+CASE_052,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_052,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_052,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_052,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,412,0,0,644,412,232,0
+CASE_052,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_053,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_053,Demand Surge,No Intervention,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_053,Demand Surge,No Intervention,3,2020-01-19,412,0,0,644,412,232,0
+CASE_053,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_053,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_053,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_053,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,412,0,0,644,412,232,0
+CASE_053,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_053,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_053,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_053,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,412,0,0,644,412,232,0
+CASE_053,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_054,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_054,Demand Surge,No Intervention,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_054,Demand Surge,No Intervention,3,2020-01-19,412,0,0,644,412,232,0
+CASE_054,Demand Surge,No Intervention,4,2020-01-26,0,900,0,644,644,0,256
+CASE_054,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_054,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_054,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,412,0,0,644,412,232,0
+CASE_054,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,644,644,0,532
+CASE_054,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,644,644,0,1056
+CASE_054,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,1056,0,0,644,644,0,412
+CASE_054,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,412,0,0,644,412,232,0
+CASE_054,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,644,644,0,256
+CASE_055,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_055,Demand Surge,No Intervention,2,2020-01-12,359,900,0,741,741,0,518
+CASE_055,Demand Surge,No Intervention,3,2020-01-19,518,0,0,741,518,223,0
+CASE_055,Demand Surge,No Intervention,4,2020-01-26,0,0,0,741,0,741,0
+CASE_055,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_055,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,900,0,741,741,0,518
+CASE_055,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,518,0,0,741,518,223,0
+CASE_055,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,0,276,741,276,465,0
+CASE_055,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_055,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,900,0,741,741,0,518
+CASE_055,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,518,0,0,741,518,223,0
+CASE_055,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,0,0,741,0,741,0
+CASE_056,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_056,Demand Surge,No Intervention,2,2020-01-12,359,900,0,741,741,0,518
+CASE_056,Demand Surge,No Intervention,3,2020-01-19,518,0,0,741,518,223,0
+CASE_056,Demand Surge,No Intervention,4,2020-01-26,0,0,0,741,0,741,0
+CASE_056,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_056,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,900,0,741,741,0,518
+CASE_056,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,518,0,0,741,518,223,0
+CASE_056,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,0,276,741,276,465,0
+CASE_056,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_056,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,900,0,741,741,0,518
+CASE_056,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,518,0,0,741,518,223,0
+CASE_056,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,0,0,741,0,741,0
+CASE_057,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_057,Demand Surge,No Intervention,2,2020-01-12,359,900,0,741,741,0,518
+CASE_057,Demand Surge,No Intervention,3,2020-01-19,518,0,0,741,518,223,0
+CASE_057,Demand Surge,No Intervention,4,2020-01-26,0,0,0,741,0,741,0
+CASE_057,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_057,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,900,0,741,741,0,518
+CASE_057,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,518,0,0,741,518,223,0
+CASE_057,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,0,276,741,276,465,0
+CASE_057,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_057,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,900,0,741,741,0,518
+CASE_057,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,518,0,0,741,518,223,0
+CASE_057,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,0,0,741,0,741,0
+CASE_058,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_058,Demand Surge,No Intervention,2,2020-01-12,359,0,0,741,359,382,0
+CASE_058,Demand Surge,No Intervention,3,2020-01-19,0,900,0,741,741,0,159
+CASE_058,Demand Surge,No Intervention,4,2020-01-26,159,0,0,741,159,582,0
+CASE_058,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_058,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,0,0,741,359,382,0
+CASE_058,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,741,741,0,159
+CASE_058,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,159,0,276,741,435,306,0
+CASE_058,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_058,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,0,0,741,359,382,0
+CASE_058,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,741,741,0,159
+CASE_058,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,159,0,0,741,159,582,0
+CASE_059,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_059,Demand Surge,No Intervention,2,2020-01-12,359,0,0,741,359,382,0
+CASE_059,Demand Surge,No Intervention,3,2020-01-19,0,900,0,741,741,0,159
+CASE_059,Demand Surge,No Intervention,4,2020-01-26,159,0,0,741,159,582,0
+CASE_059,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_059,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,0,0,741,359,382,0
+CASE_059,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,741,741,0,159
+CASE_059,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,159,0,276,741,435,306,0
+CASE_059,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_059,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,0,0,741,359,382,0
+CASE_059,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,741,741,0,159
+CASE_059,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,159,0,0,741,159,582,0
+CASE_060,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_060,Demand Surge,No Intervention,2,2020-01-12,359,0,0,741,359,382,0
+CASE_060,Demand Surge,No Intervention,3,2020-01-19,0,900,0,741,741,0,159
+CASE_060,Demand Surge,No Intervention,4,2020-01-26,159,0,0,741,159,582,0
+CASE_060,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_060,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,0,0,741,359,382,0
+CASE_060,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,741,741,0,159
+CASE_060,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,159,0,276,741,435,306,0
+CASE_060,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_060,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,0,0,741,359,382,0
+CASE_060,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,741,741,0,159
+CASE_060,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,159,0,0,741,159,582,0
+CASE_061,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_061,Demand Surge,No Intervention,2,2020-01-12,359,0,0,741,359,382,0
+CASE_061,Demand Surge,No Intervention,3,2020-01-19,0,0,0,741,0,741,0
+CASE_061,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_061,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_061,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,0,0,741,359,382,0
+CASE_061,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,741,0,741,0
+CASE_061,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_061,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_061,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,0,0,741,359,382,0
+CASE_061,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,741,0,741,0
+CASE_061,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_062,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_062,Demand Surge,No Intervention,2,2020-01-12,359,0,0,741,359,382,0
+CASE_062,Demand Surge,No Intervention,3,2020-01-19,0,0,0,741,0,741,0
+CASE_062,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_062,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_062,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,0,0,741,359,382,0
+CASE_062,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,741,0,741,0
+CASE_062,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_062,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_062,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,0,0,741,359,382,0
+CASE_062,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,741,0,741,0
+CASE_062,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_063,Demand Surge,No Intervention,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_063,Demand Surge,No Intervention,2,2020-01-12,359,0,0,741,359,382,0
+CASE_063,Demand Surge,No Intervention,3,2020-01-19,0,0,0,741,0,741,0
+CASE_063,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_063,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_063,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,359,0,0,741,359,382,0
+CASE_063,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,741,0,741,0
+CASE_063,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_063,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1100,0,0,741,741,0,359
+CASE_063,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,359,0,0,741,359,382,0
+CASE_063,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,741,0,741,0
+CASE_063,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_064,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_064,Demand Surge,No Intervention,2,2020-01-12,659,900,0,741,741,0,818
+CASE_064,Demand Surge,No Intervention,3,2020-01-19,818,0,0,741,741,0,77
+CASE_064,Demand Surge,No Intervention,4,2020-01-26,77,0,0,741,77,664,0
+CASE_064,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_064,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,900,0,741,741,0,818
+CASE_064,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,818,0,0,741,741,0,77
+CASE_064,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,77,0,276,741,353,388,0
+CASE_064,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_064,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,900,0,741,741,0,818
+CASE_064,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,818,0,0,741,741,0,77
+CASE_064,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,77,0,0,741,77,664,0
+CASE_065,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_065,Demand Surge,No Intervention,2,2020-01-12,659,900,0,741,741,0,818
+CASE_065,Demand Surge,No Intervention,3,2020-01-19,818,0,0,741,741,0,77
+CASE_065,Demand Surge,No Intervention,4,2020-01-26,77,0,0,741,77,664,0
+CASE_065,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_065,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,900,0,741,741,0,818
+CASE_065,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,818,0,0,741,741,0,77
+CASE_065,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,77,0,276,741,353,388,0
+CASE_065,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_065,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,900,0,741,741,0,818
+CASE_065,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,818,0,0,741,741,0,77
+CASE_065,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,77,0,0,741,77,664,0
+CASE_066,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_066,Demand Surge,No Intervention,2,2020-01-12,659,900,0,741,741,0,818
+CASE_066,Demand Surge,No Intervention,3,2020-01-19,818,0,0,741,741,0,77
+CASE_066,Demand Surge,No Intervention,4,2020-01-26,77,0,0,741,77,664,0
+CASE_066,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_066,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,900,0,741,741,0,818
+CASE_066,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,818,0,0,741,741,0,77
+CASE_066,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,77,0,276,741,353,388,0
+CASE_066,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_066,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,900,0,741,741,0,818
+CASE_066,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,818,0,0,741,741,0,77
+CASE_066,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,77,0,0,741,77,664,0
+CASE_067,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_067,Demand Surge,No Intervention,2,2020-01-12,659,0,0,741,659,82,0
+CASE_067,Demand Surge,No Intervention,3,2020-01-19,0,900,0,741,741,0,159
+CASE_067,Demand Surge,No Intervention,4,2020-01-26,159,0,0,741,159,582,0
+CASE_067,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_067,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,0,0,741,659,82,0
+CASE_067,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,741,741,0,159
+CASE_067,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,159,0,276,741,435,306,0
+CASE_067,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_067,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,0,0,741,659,82,0
+CASE_067,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,741,741,0,159
+CASE_067,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,159,0,0,741,159,582,0
+CASE_068,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_068,Demand Surge,No Intervention,2,2020-01-12,659,0,0,741,659,82,0
+CASE_068,Demand Surge,No Intervention,3,2020-01-19,0,900,0,741,741,0,159
+CASE_068,Demand Surge,No Intervention,4,2020-01-26,159,0,0,741,159,582,0
+CASE_068,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_068,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,0,0,741,659,82,0
+CASE_068,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,741,741,0,159
+CASE_068,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,159,0,276,741,435,306,0
+CASE_068,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_068,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,0,0,741,659,82,0
+CASE_068,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,741,741,0,159
+CASE_068,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,159,0,0,741,159,582,0
+CASE_069,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_069,Demand Surge,No Intervention,2,2020-01-12,659,0,0,741,659,82,0
+CASE_069,Demand Surge,No Intervention,3,2020-01-19,0,900,0,741,741,0,159
+CASE_069,Demand Surge,No Intervention,4,2020-01-26,159,0,0,741,159,582,0
+CASE_069,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_069,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,0,0,741,659,82,0
+CASE_069,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,900,0,741,741,0,159
+CASE_069,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,159,0,276,741,435,306,0
+CASE_069,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_069,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,0,0,741,659,82,0
+CASE_069,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,900,0,741,741,0,159
+CASE_069,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,159,0,0,741,159,582,0
+CASE_070,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_070,Demand Surge,No Intervention,2,2020-01-12,659,0,0,741,659,82,0
+CASE_070,Demand Surge,No Intervention,3,2020-01-19,0,0,0,741,0,741,0
+CASE_070,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_070,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_070,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,0,0,741,659,82,0
+CASE_070,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,741,0,741,0
+CASE_070,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_070,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_070,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,0,0,741,659,82,0
+CASE_070,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,741,0,741,0
+CASE_070,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_071,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_071,Demand Surge,No Intervention,2,2020-01-12,659,0,0,741,659,82,0
+CASE_071,Demand Surge,No Intervention,3,2020-01-19,0,0,0,741,0,741,0
+CASE_071,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_071,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_071,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,0,0,741,659,82,0
+CASE_071,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,741,0,741,0
+CASE_071,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_071,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_071,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,0,0,741,659,82,0
+CASE_071,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,741,0,741,0
+CASE_071,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_072,Demand Surge,No Intervention,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_072,Demand Surge,No Intervention,2,2020-01-12,659,0,0,741,659,82,0
+CASE_072,Demand Surge,No Intervention,3,2020-01-19,0,0,0,741,0,741,0
+CASE_072,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_072,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_072,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,659,0,0,741,659,82,0
+CASE_072,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,0,0,0,741,0,741,0
+CASE_072,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_072,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1400,0,0,741,741,0,659
+CASE_072,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,659,0,0,741,659,82,0
+CASE_072,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,0,0,0,741,0,741,0
+CASE_072,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_073,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_073,Demand Surge,No Intervention,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_073,Demand Surge,No Intervention,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_073,Demand Surge,No Intervention,4,2020-01-26,377,0,0,741,377,364,0
+CASE_073,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_073,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_073,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_073,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,377,0,276,741,653,88,0
+CASE_073,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_073,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_073,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_073,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,377,0,0,741,377,364,0
+CASE_074,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_074,Demand Surge,No Intervention,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_074,Demand Surge,No Intervention,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_074,Demand Surge,No Intervention,4,2020-01-26,377,0,0,741,377,364,0
+CASE_074,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_074,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_074,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_074,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,377,0,276,741,653,88,0
+CASE_074,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_074,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_074,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_074,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,377,0,0,741,377,364,0
+CASE_075,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_075,Demand Surge,No Intervention,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_075,Demand Surge,No Intervention,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_075,Demand Surge,No Intervention,4,2020-01-26,377,0,0,741,377,364,0
+CASE_075,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_075,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_075,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_075,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,377,0,276,741,653,88,0
+CASE_075,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_075,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,900,0,741,741,0,1118
+CASE_075,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,1118,0,0,741,741,0,377
+CASE_075,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,377,0,0,741,377,364,0
+CASE_076,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_076,Demand Surge,No Intervention,2,2020-01-12,959,0,0,741,741,0,218
+CASE_076,Demand Surge,No Intervention,3,2020-01-19,218,900,0,741,741,0,377
+CASE_076,Demand Surge,No Intervention,4,2020-01-26,377,0,0,741,377,364,0
+CASE_076,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_076,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,0,0,741,741,0,218
+CASE_076,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,218,900,0,741,741,0,377
+CASE_076,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,377,0,276,741,653,88,0
+CASE_076,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_076,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,0,0,741,741,0,218
+CASE_076,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,218,900,0,741,741,0,377
+CASE_076,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,377,0,0,741,377,364,0
+CASE_077,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_077,Demand Surge,No Intervention,2,2020-01-12,959,0,0,741,741,0,218
+CASE_077,Demand Surge,No Intervention,3,2020-01-19,218,900,0,741,741,0,377
+CASE_077,Demand Surge,No Intervention,4,2020-01-26,377,0,0,741,377,364,0
+CASE_077,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_077,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,0,0,741,741,0,218
+CASE_077,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,218,900,0,741,741,0,377
+CASE_077,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,377,0,276,741,653,88,0
+CASE_077,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_077,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,0,0,741,741,0,218
+CASE_077,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,218,900,0,741,741,0,377
+CASE_077,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,377,0,0,741,377,364,0
+CASE_078,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_078,Demand Surge,No Intervention,2,2020-01-12,959,0,0,741,741,0,218
+CASE_078,Demand Surge,No Intervention,3,2020-01-19,218,900,0,741,741,0,377
+CASE_078,Demand Surge,No Intervention,4,2020-01-26,377,0,0,741,377,364,0
+CASE_078,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_078,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,0,0,741,741,0,218
+CASE_078,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,218,900,0,741,741,0,377
+CASE_078,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,377,0,276,741,653,88,0
+CASE_078,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_078,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,0,0,741,741,0,218
+CASE_078,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,218,900,0,741,741,0,377
+CASE_078,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,377,0,0,741,377,364,0
+CASE_079,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_079,Demand Surge,No Intervention,2,2020-01-12,959,0,0,741,741,0,218
+CASE_079,Demand Surge,No Intervention,3,2020-01-19,218,0,0,741,218,523,0
+CASE_079,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_079,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_079,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,0,0,741,741,0,218
+CASE_079,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,218,0,0,741,218,523,0
+CASE_079,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_079,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_079,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,0,0,741,741,0,218
+CASE_079,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,218,0,0,741,218,523,0
+CASE_079,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_080,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_080,Demand Surge,No Intervention,2,2020-01-12,959,0,0,741,741,0,218
+CASE_080,Demand Surge,No Intervention,3,2020-01-19,218,0,0,741,218,523,0
+CASE_080,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_080,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_080,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,0,0,741,741,0,218
+CASE_080,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,218,0,0,741,218,523,0
+CASE_080,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_080,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_080,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,0,0,741,741,0,218
+CASE_080,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,218,0,0,741,218,523,0
+CASE_080,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_081,Demand Surge,No Intervention,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_081,Demand Surge,No Intervention,2,2020-01-12,959,0,0,741,741,0,218
+CASE_081,Demand Surge,No Intervention,3,2020-01-19,218,0,0,741,218,523,0
+CASE_081,Demand Surge,No Intervention,4,2020-01-26,0,900,0,741,741,0,159
+CASE_081,Demand Surge,Add 276 Units - Week 4,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_081,Demand Surge,Add 276 Units - Week 4,2,2020-01-12,959,0,0,741,741,0,218
+CASE_081,Demand Surge,Add 276 Units - Week 4,3,2020-01-19,218,0,0,741,218,523,0
+CASE_081,Demand Surge,Add 276 Units - Week 4,4,2020-01-26,0,900,276,741,741,0,435
+CASE_081,Demand Surge,Add 276 Units - Week 5,1,2020-01-05,1700,0,0,741,741,0,959
+CASE_081,Demand Surge,Add 276 Units - Week 5,2,2020-01-12,959,0,0,741,741,0,218
+CASE_081,Demand Surge,Add 276 Units - Week 5,3,2020-01-19,218,0,0,741,218,523,0
+CASE_081,Demand Surge,Add 276 Units - Week 5,4,2020-01-26,0,900,0,741,741,0,159
+CASE_082,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_082,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_082,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_082,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,438,438,0,462
+CASE_082,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_082,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_082,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_082,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,900,0,438,438,0,908
+CASE_082,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_082,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_082,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_082,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,438,438,0,1122
+CASE_082,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_082,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,900,0,438,438,0,1124
+CASE_082,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1124,0,0,438,438,0,686
+CASE_082,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,686,0,0,438,438,0,248
+CASE_083,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_083,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_083,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_083,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,438,438,0,462
+CASE_083,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_083,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_083,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_083,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,900,0,438,438,0,908
+CASE_083,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_083,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_083,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_083,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,438,438,0,1122
+CASE_083,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_083,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,900,0,438,438,0,1124
+CASE_083,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1124,0,0,438,438,0,686
+CASE_083,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,686,0,0,438,438,0,248
+CASE_084,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_084,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_084,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_084,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,438,438,0,462
+CASE_084,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_084,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_084,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_084,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,900,0,438,438,0,908
+CASE_084,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_084,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_084,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_084,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,438,438,0,1122
+CASE_084,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_084,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,900,0,438,438,0,1124
+CASE_084,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1124,0,0,438,438,0,686
+CASE_084,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,686,0,0,438,438,0,248
+CASE_085,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_085,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_085,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_085,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,438,0,438,0
+CASE_085,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_085,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_085,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_085,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,0,0,438,438,0,8
+CASE_085,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_085,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_085,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_085,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,438,438,0,222
+CASE_085,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_085,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_085,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,224,900,0,438,438,0,686
+CASE_085,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,686,0,0,438,438,0,248
+CASE_086,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_086,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_086,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_086,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,438,0,438,0
+CASE_086,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_086,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_086,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_086,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,0,0,438,438,0,8
+CASE_086,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_086,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_086,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_086,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,438,438,0,222
+CASE_086,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_086,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_086,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,224,900,0,438,438,0,686
+CASE_086,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,686,0,0,438,438,0,248
+CASE_087,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_087,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_087,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_087,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,438,0,438,0
+CASE_087,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_087,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_087,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_087,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,0,0,438,438,0,8
+CASE_087,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_087,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_087,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_087,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,438,438,0,222
+CASE_087,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_087,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_087,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,224,900,0,438,438,0,686
+CASE_087,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,686,0,0,438,438,0,248
+CASE_088,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_088,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_088,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_088,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,438,0,438,0
+CASE_088,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_088,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_088,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_088,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,0,0,438,438,0,8
+CASE_088,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_088,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_088,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_088,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,438,438,0,222
+CASE_088,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_088,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_088,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,224,0,0,438,224,214,0
+CASE_088,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,438,438,0,462
+CASE_089,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_089,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_089,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_089,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,438,0,438,0
+CASE_089,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_089,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_089,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_089,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,0,0,438,438,0,8
+CASE_089,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_089,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_089,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_089,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,438,438,0,222
+CASE_089,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_089,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_089,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,224,0,0,438,224,214,0
+CASE_089,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,438,438,0,462
+CASE_090,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_090,Supplier Delay,No Intervention,2,2020-01-12,662,0,0,438,438,0,224
+CASE_090,Supplier Delay,No Intervention,3,2020-01-19,224,0,0,438,224,214,0
+CASE_090,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,438,0,438,0
+CASE_090,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_090,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_090,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,224,0,660,438,438,0,446
+CASE_090,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,446,0,0,438,438,0,8
+CASE_090,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_090,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,662,0,0,438,438,0,224
+CASE_090,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,224,0,0,438,224,214,0
+CASE_090,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,438,438,0,222
+CASE_090,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,438,438,0,662
+CASE_090,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,662,0,0,438,438,0,224
+CASE_090,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,224,0,0,438,224,214,0
+CASE_090,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,438,438,0,462
+CASE_091,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_091,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_091,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_091,Supplier Delay,No Intervention,4,2020-01-26,86,900,0,438,438,0,548
+CASE_091,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_091,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_091,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_091,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,900,0,438,438,0,1208
+CASE_091,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_091,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_091,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_091,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,900,660,438,438,0,1208
+CASE_091,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_091,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,900,0,438,438,0,1424
+CASE_091,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1424,0,0,438,438,0,986
+CASE_091,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,986,0,0,438,438,0,548
+CASE_092,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_092,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_092,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_092,Supplier Delay,No Intervention,4,2020-01-26,86,900,0,438,438,0,548
+CASE_092,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_092,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_092,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_092,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,900,0,438,438,0,1208
+CASE_092,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_092,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_092,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_092,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,900,660,438,438,0,1208
+CASE_092,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_092,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,900,0,438,438,0,1424
+CASE_092,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1424,0,0,438,438,0,986
+CASE_092,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,986,0,0,438,438,0,548
+CASE_093,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_093,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_093,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_093,Supplier Delay,No Intervention,4,2020-01-26,86,900,0,438,438,0,548
+CASE_093,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_093,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_093,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_093,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,900,0,438,438,0,1208
+CASE_093,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_093,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_093,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_093,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,900,660,438,438,0,1208
+CASE_093,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_093,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,900,0,438,438,0,1424
+CASE_093,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1424,0,0,438,438,0,986
+CASE_093,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,986,0,0,438,438,0,548
+CASE_094,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_094,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_094,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_094,Supplier Delay,No Intervention,4,2020-01-26,86,0,0,438,86,352,0
+CASE_094,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_094,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_094,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_094,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,0,0,438,438,0,308
+CASE_094,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_094,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_094,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_094,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,0,660,438,438,0,308
+CASE_094,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_094,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_094,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,524,900,0,438,438,0,986
+CASE_094,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,986,0,0,438,438,0,548
+CASE_095,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_095,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_095,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_095,Supplier Delay,No Intervention,4,2020-01-26,86,0,0,438,86,352,0
+CASE_095,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_095,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_095,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_095,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,0,0,438,438,0,308
+CASE_095,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_095,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_095,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_095,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,0,660,438,438,0,308
+CASE_095,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_095,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_095,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,524,900,0,438,438,0,986
+CASE_095,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,986,0,0,438,438,0,548
+CASE_096,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_096,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_096,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_096,Supplier Delay,No Intervention,4,2020-01-26,86,0,0,438,86,352,0
+CASE_096,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_096,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_096,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_096,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,0,0,438,438,0,308
+CASE_096,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_096,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_096,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_096,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,0,660,438,438,0,308
+CASE_096,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_096,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_096,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,524,900,0,438,438,0,986
+CASE_096,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,986,0,0,438,438,0,548
+CASE_097,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_097,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_097,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_097,Supplier Delay,No Intervention,4,2020-01-26,86,0,0,438,86,352,0
+CASE_097,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_097,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_097,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_097,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,0,0,438,438,0,308
+CASE_097,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_097,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_097,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_097,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,0,660,438,438,0,308
+CASE_097,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_097,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_097,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,524,0,0,438,438,0,86
+CASE_097,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,86,900,0,438,438,0,548
+CASE_098,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_098,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_098,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_098,Supplier Delay,No Intervention,4,2020-01-26,86,0,0,438,86,352,0
+CASE_098,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_098,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_098,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_098,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,0,0,438,438,0,308
+CASE_098,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_098,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_098,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_098,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,0,660,438,438,0,308
+CASE_098,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_098,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_098,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,524,0,0,438,438,0,86
+CASE_098,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,86,900,0,438,438,0,548
+CASE_099,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_099,Supplier Delay,No Intervention,2,2020-01-12,962,0,0,438,438,0,524
+CASE_099,Supplier Delay,No Intervention,3,2020-01-19,524,0,0,438,438,0,86
+CASE_099,Supplier Delay,No Intervention,4,2020-01-26,86,0,0,438,86,352,0
+CASE_099,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_099,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_099,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,524,0,660,438,438,0,746
+CASE_099,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,746,0,0,438,438,0,308
+CASE_099,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_099,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,962,0,0,438,438,0,524
+CASE_099,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,524,0,0,438,438,0,86
+CASE_099,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,86,0,660,438,438,0,308
+CASE_099,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,438,438,0,962
+CASE_099,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,962,0,0,438,438,0,524
+CASE_099,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,524,0,0,438,438,0,86
+CASE_099,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,86,900,0,438,438,0,548
+CASE_100,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_100,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_100,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_100,Supplier Delay,No Intervention,4,2020-01-26,386,900,0,438,438,0,848
+CASE_100,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_100,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_100,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_100,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,900,0,438,438,0,1508
+CASE_100,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_100,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_100,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_100,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,900,660,438,438,0,1508
+CASE_100,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_100,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,900,0,438,438,0,1724
+CASE_100,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1724,0,0,438,438,0,1286
+CASE_100,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1286,0,0,438,438,0,848
+CASE_101,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_101,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_101,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_101,Supplier Delay,No Intervention,4,2020-01-26,386,900,0,438,438,0,848
+CASE_101,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_101,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_101,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_101,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,900,0,438,438,0,1508
+CASE_101,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_101,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_101,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_101,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,900,660,438,438,0,1508
+CASE_101,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_101,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,900,0,438,438,0,1724
+CASE_101,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1724,0,0,438,438,0,1286
+CASE_101,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1286,0,0,438,438,0,848
+CASE_102,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_102,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_102,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_102,Supplier Delay,No Intervention,4,2020-01-26,386,900,0,438,438,0,848
+CASE_102,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_102,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_102,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_102,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,900,0,438,438,0,1508
+CASE_102,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_102,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_102,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_102,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,900,660,438,438,0,1508
+CASE_102,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_102,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,900,0,438,438,0,1724
+CASE_102,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1724,0,0,438,438,0,1286
+CASE_102,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1286,0,0,438,438,0,848
+CASE_103,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_103,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_103,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_103,Supplier Delay,No Intervention,4,2020-01-26,386,0,0,438,386,52,0
+CASE_103,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_103,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_103,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_103,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,0,0,438,438,0,608
+CASE_103,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_103,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_103,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_103,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,0,660,438,438,0,608
+CASE_103,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_103,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_103,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,824,900,0,438,438,0,1286
+CASE_103,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1286,0,0,438,438,0,848
+CASE_104,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_104,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_104,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_104,Supplier Delay,No Intervention,4,2020-01-26,386,0,0,438,386,52,0
+CASE_104,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_104,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_104,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_104,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,0,0,438,438,0,608
+CASE_104,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_104,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_104,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_104,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,0,660,438,438,0,608
+CASE_104,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_104,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_104,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,824,900,0,438,438,0,1286
+CASE_104,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1286,0,0,438,438,0,848
+CASE_105,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_105,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_105,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_105,Supplier Delay,No Intervention,4,2020-01-26,386,0,0,438,386,52,0
+CASE_105,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_105,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_105,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_105,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,0,0,438,438,0,608
+CASE_105,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_105,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_105,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_105,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,0,660,438,438,0,608
+CASE_105,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_105,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_105,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,824,900,0,438,438,0,1286
+CASE_105,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1286,0,0,438,438,0,848
+CASE_106,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_106,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_106,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_106,Supplier Delay,No Intervention,4,2020-01-26,386,0,0,438,386,52,0
+CASE_106,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_106,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_106,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_106,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,0,0,438,438,0,608
+CASE_106,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_106,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_106,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_106,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,0,660,438,438,0,608
+CASE_106,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_106,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_106,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,824,0,0,438,438,0,386
+CASE_106,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,386,900,0,438,438,0,848
+CASE_107,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_107,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_107,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_107,Supplier Delay,No Intervention,4,2020-01-26,386,0,0,438,386,52,0
+CASE_107,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_107,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_107,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_107,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,0,0,438,438,0,608
+CASE_107,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_107,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_107,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_107,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,0,660,438,438,0,608
+CASE_107,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_107,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_107,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,824,0,0,438,438,0,386
+CASE_107,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,386,900,0,438,438,0,848
+CASE_108,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_108,Supplier Delay,No Intervention,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_108,Supplier Delay,No Intervention,3,2020-01-19,824,0,0,438,438,0,386
+CASE_108,Supplier Delay,No Intervention,4,2020-01-26,386,0,0,438,386,52,0
+CASE_108,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_108,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_108,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,824,0,660,438,438,0,1046
+CASE_108,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,1046,0,0,438,438,0,608
+CASE_108,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_108,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_108,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,824,0,0,438,438,0,386
+CASE_108,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,386,0,660,438,438,0,608
+CASE_108,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,438,438,0,1262
+CASE_108,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1262,0,0,438,438,0,824
+CASE_108,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,824,0,0,438,438,0,386
+CASE_108,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,386,900,0,438,438,0,848
+CASE_109,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_109,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_109,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_109,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,515,515,0,385
+CASE_109,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_109,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_109,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_109,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,900,0,515,515,0,600
+CASE_109,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_109,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_109,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_109,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,515,515,0,1045
+CASE_109,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_109,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,900,0,515,515,0,970
+CASE_109,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,970,0,0,515,515,0,455
+CASE_109,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,455,0,0,515,455,60,0
+CASE_110,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_110,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_110,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_110,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,515,515,0,385
+CASE_110,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_110,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_110,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_110,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,900,0,515,515,0,600
+CASE_110,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_110,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_110,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_110,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,515,515,0,1045
+CASE_110,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_110,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,900,0,515,515,0,970
+CASE_110,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,970,0,0,515,515,0,455
+CASE_110,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,455,0,0,515,455,60,0
+CASE_111,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_111,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_111,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_111,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,515,515,0,385
+CASE_111,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_111,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_111,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_111,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,900,0,515,515,0,600
+CASE_111,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_111,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_111,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_111,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,515,515,0,1045
+CASE_111,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_111,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,900,0,515,515,0,970
+CASE_111,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,970,0,0,515,515,0,455
+CASE_111,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,455,0,0,515,455,60,0
+CASE_112,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_112,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_112,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_112,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_112,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_112,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_112,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_112,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,0,0,515,215,300,0
+CASE_112,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_112,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_112,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_112,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_112,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_112,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_112,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,70,900,0,515,515,0,455
+CASE_112,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,455,0,0,515,455,60,0
+CASE_113,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_113,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_113,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_113,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_113,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_113,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_113,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_113,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,0,0,515,215,300,0
+CASE_113,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_113,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_113,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_113,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_113,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_113,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_113,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,70,900,0,515,515,0,455
+CASE_113,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,455,0,0,515,455,60,0
+CASE_114,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_114,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_114,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_114,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_114,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_114,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_114,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_114,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,0,0,515,215,300,0
+CASE_114,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_114,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_114,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_114,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_114,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_114,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_114,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,70,900,0,515,515,0,455
+CASE_114,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,455,0,0,515,455,60,0
+CASE_115,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_115,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_115,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_115,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_115,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_115,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_115,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_115,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,0,0,515,215,300,0
+CASE_115,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_115,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_115,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_115,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_115,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_115,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_115,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,70,0,0,515,70,445,0
+CASE_115,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,515,515,0,385
+CASE_116,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_116,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_116,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_116,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_116,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_116,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_116,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_116,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,0,0,515,215,300,0
+CASE_116,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_116,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_116,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_116,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_116,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_116,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_116,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,70,0,0,515,70,445,0
+CASE_116,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,515,515,0,385
+CASE_117,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_117,Supplier Delay,No Intervention,2,2020-01-12,585,0,0,515,515,0,70
+CASE_117,Supplier Delay,No Intervention,3,2020-01-19,70,0,0,515,70,445,0
+CASE_117,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_117,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_117,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_117,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,70,0,660,515,515,0,215
+CASE_117,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,215,0,0,515,215,300,0
+CASE_117,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_117,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,585,0,0,515,515,0,70
+CASE_117,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,70,0,0,515,70,445,0
+CASE_117,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_117,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,515,515,0,585
+CASE_117,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,585,0,0,515,515,0,70
+CASE_117,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,70,0,0,515,70,445,0
+CASE_117,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,515,515,0,385
+CASE_118,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_118,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_118,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_118,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,515,515,0,385
+CASE_118,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_118,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_118,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_118,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,900,0,515,515,0,900
+CASE_118,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_118,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_118,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_118,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,515,515,0,1045
+CASE_118,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_118,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,900,0,515,515,0,1270
+CASE_118,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1270,0,0,515,515,0,755
+CASE_118,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,755,0,0,515,515,0,240
+CASE_119,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_119,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_119,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_119,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,515,515,0,385
+CASE_119,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_119,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_119,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_119,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,900,0,515,515,0,900
+CASE_119,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_119,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_119,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_119,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,515,515,0,1045
+CASE_119,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_119,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,900,0,515,515,0,1270
+CASE_119,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1270,0,0,515,515,0,755
+CASE_119,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,755,0,0,515,515,0,240
+CASE_120,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_120,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_120,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_120,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,515,515,0,385
+CASE_120,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_120,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_120,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_120,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,900,0,515,515,0,900
+CASE_120,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_120,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_120,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_120,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,515,515,0,1045
+CASE_120,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_120,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,900,0,515,515,0,1270
+CASE_120,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1270,0,0,515,515,0,755
+CASE_120,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,755,0,0,515,515,0,240
+CASE_121,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_121,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_121,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_121,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_121,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_121,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_121,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_121,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,0,0,515,515,0,0
+CASE_121,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_121,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_121,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_121,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_121,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_121,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_121,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,370,900,0,515,515,0,755
+CASE_121,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,755,0,0,515,515,0,240
+CASE_122,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_122,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_122,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_122,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_122,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_122,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_122,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_122,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,0,0,515,515,0,0
+CASE_122,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_122,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_122,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_122,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_122,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_122,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_122,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,370,900,0,515,515,0,755
+CASE_122,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,755,0,0,515,515,0,240
+CASE_123,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_123,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_123,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_123,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_123,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_123,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_123,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_123,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,0,0,515,515,0,0
+CASE_123,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_123,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_123,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_123,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_123,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_123,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_123,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,370,900,0,515,515,0,755
+CASE_123,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,755,0,0,515,515,0,240
+CASE_124,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_124,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_124,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_124,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_124,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_124,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_124,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_124,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,0,0,515,515,0,0
+CASE_124,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_124,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_124,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_124,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_124,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_124,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_124,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,370,0,0,515,370,145,0
+CASE_124,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,515,515,0,385
+CASE_125,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_125,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_125,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_125,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_125,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_125,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_125,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_125,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,0,0,515,515,0,0
+CASE_125,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_125,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_125,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_125,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_125,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_125,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_125,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,370,0,0,515,370,145,0
+CASE_125,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,515,515,0,385
+CASE_126,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_126,Supplier Delay,No Intervention,2,2020-01-12,885,0,0,515,515,0,370
+CASE_126,Supplier Delay,No Intervention,3,2020-01-19,370,0,0,515,370,145,0
+CASE_126,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,515,0,515,0
+CASE_126,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_126,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_126,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,370,0,660,515,515,0,515
+CASE_126,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,515,0,0,515,515,0,0
+CASE_126,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_126,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,885,0,0,515,515,0,370
+CASE_126,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,370,0,0,515,370,145,0
+CASE_126,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,515,515,0,145
+CASE_126,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,515,515,0,885
+CASE_126,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,885,0,0,515,515,0,370
+CASE_126,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,370,0,0,515,370,145,0
+CASE_126,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,515,515,0,385
+CASE_127,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_127,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_127,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_127,Supplier Delay,No Intervention,4,2020-01-26,155,900,0,515,515,0,540
+CASE_127,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_127,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_127,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_127,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,900,0,515,515,0,1200
+CASE_127,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_127,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_127,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_127,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,900,660,515,515,0,1200
+CASE_127,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_127,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,900,0,515,515,0,1570
+CASE_127,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1570,0,0,515,515,0,1055
+CASE_127,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1055,0,0,515,515,0,540
+CASE_128,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_128,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_128,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_128,Supplier Delay,No Intervention,4,2020-01-26,155,900,0,515,515,0,540
+CASE_128,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_128,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_128,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_128,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,900,0,515,515,0,1200
+CASE_128,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_128,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_128,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_128,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,900,660,515,515,0,1200
+CASE_128,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_128,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,900,0,515,515,0,1570
+CASE_128,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1570,0,0,515,515,0,1055
+CASE_128,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1055,0,0,515,515,0,540
+CASE_129,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_129,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_129,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_129,Supplier Delay,No Intervention,4,2020-01-26,155,900,0,515,515,0,540
+CASE_129,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_129,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_129,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_129,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,900,0,515,515,0,1200
+CASE_129,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_129,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_129,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_129,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,900,660,515,515,0,1200
+CASE_129,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_129,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,900,0,515,515,0,1570
+CASE_129,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1570,0,0,515,515,0,1055
+CASE_129,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1055,0,0,515,515,0,540
+CASE_130,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_130,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_130,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_130,Supplier Delay,No Intervention,4,2020-01-26,155,0,0,515,155,360,0
+CASE_130,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_130,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_130,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_130,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,0,0,515,515,0,300
+CASE_130,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_130,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_130,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_130,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,0,660,515,515,0,300
+CASE_130,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_130,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_130,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,670,900,0,515,515,0,1055
+CASE_130,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1055,0,0,515,515,0,540
+CASE_131,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_131,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_131,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_131,Supplier Delay,No Intervention,4,2020-01-26,155,0,0,515,155,360,0
+CASE_131,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_131,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_131,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_131,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,0,0,515,515,0,300
+CASE_131,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_131,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_131,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_131,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,0,660,515,515,0,300
+CASE_131,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_131,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_131,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,670,900,0,515,515,0,1055
+CASE_131,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1055,0,0,515,515,0,540
+CASE_132,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_132,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_132,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_132,Supplier Delay,No Intervention,4,2020-01-26,155,0,0,515,155,360,0
+CASE_132,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_132,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_132,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_132,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,0,0,515,515,0,300
+CASE_132,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_132,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_132,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_132,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,0,660,515,515,0,300
+CASE_132,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_132,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_132,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,670,900,0,515,515,0,1055
+CASE_132,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,1055,0,0,515,515,0,540
+CASE_133,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_133,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_133,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_133,Supplier Delay,No Intervention,4,2020-01-26,155,0,0,515,155,360,0
+CASE_133,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_133,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_133,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_133,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,0,0,515,515,0,300
+CASE_133,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_133,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_133,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_133,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,0,660,515,515,0,300
+CASE_133,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_133,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_133,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,670,0,0,515,515,0,155
+CASE_133,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,155,900,0,515,515,0,540
+CASE_134,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_134,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_134,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_134,Supplier Delay,No Intervention,4,2020-01-26,155,0,0,515,155,360,0
+CASE_134,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_134,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_134,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_134,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,0,0,515,515,0,300
+CASE_134,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_134,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_134,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_134,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,0,660,515,515,0,300
+CASE_134,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_134,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_134,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,670,0,0,515,515,0,155
+CASE_134,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,155,900,0,515,515,0,540
+CASE_135,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_135,Supplier Delay,No Intervention,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_135,Supplier Delay,No Intervention,3,2020-01-19,670,0,0,515,515,0,155
+CASE_135,Supplier Delay,No Intervention,4,2020-01-26,155,0,0,515,155,360,0
+CASE_135,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_135,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_135,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,670,0,660,515,515,0,815
+CASE_135,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,815,0,0,515,515,0,300
+CASE_135,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_135,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_135,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,670,0,0,515,515,0,155
+CASE_135,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,155,0,660,515,515,0,300
+CASE_135,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,515,515,0,1185
+CASE_135,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1185,0,0,515,515,0,670
+CASE_135,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,670,0,0,515,515,0,155
+CASE_135,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,155,900,0,515,515,0,540
+CASE_136,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_136,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_136,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_136,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_136,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_136,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_136,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_136,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,900,0,593,593,0,374
+CASE_136,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_136,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_136,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_136,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_136,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_136,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,900,0,593,593,0,814
+CASE_136,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,814,0,0,593,593,0,221
+CASE_136,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,221,0,0,593,221,372,0
+CASE_137,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_137,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_137,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_137,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_137,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_137,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_137,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_137,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,900,0,593,593,0,374
+CASE_137,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_137,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_137,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_137,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_137,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_137,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,900,0,593,593,0,814
+CASE_137,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,814,0,0,593,593,0,221
+CASE_137,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,221,0,0,593,221,372,0
+CASE_138,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_138,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_138,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_138,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_138,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_138,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_138,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_138,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,900,0,593,593,0,374
+CASE_138,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_138,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_138,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_138,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_138,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_138,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,900,0,593,593,0,814
+CASE_138,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,814,0,0,593,593,0,221
+CASE_138,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,221,0,0,593,221,372,0
+CASE_139,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_139,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_139,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_139,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_139,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_139,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_139,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_139,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,0,0,593,67,526,0
+CASE_139,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_139,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_139,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_139,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_139,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_139,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_139,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,0,900,0,593,593,0,307
+CASE_139,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,307,0,0,593,307,286,0
+CASE_140,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_140,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_140,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_140,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_140,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_140,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_140,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_140,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,0,0,593,67,526,0
+CASE_140,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_140,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_140,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_140,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_140,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_140,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_140,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,0,900,0,593,593,0,307
+CASE_140,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,307,0,0,593,307,286,0
+CASE_141,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_141,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_141,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_141,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_141,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_141,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_141,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_141,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,0,0,593,67,526,0
+CASE_141,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_141,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_141,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_141,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_141,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_141,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_141,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,0,900,0,593,593,0,307
+CASE_141,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,307,0,0,593,307,286,0
+CASE_142,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_142,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_142,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_142,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_142,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_142,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_142,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_142,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,0,0,593,67,526,0
+CASE_142,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_142,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_142,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_142,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_142,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_142,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_142,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,0,0,0,593,0,593,0
+CASE_142,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_143,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_143,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_143,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_143,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_143,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_143,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_143,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_143,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,0,0,593,67,526,0
+CASE_143,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_143,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_143,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_143,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_143,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_143,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_143,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,0,0,0,593,0,593,0
+CASE_143,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_144,Supplier Delay,No Intervention,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_144,Supplier Delay,No Intervention,2,2020-01-12,507,0,0,593,507,86,0
+CASE_144,Supplier Delay,No Intervention,3,2020-01-19,0,0,0,593,0,593,0
+CASE_144,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_144,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_144,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_144,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,0,0,660,593,593,0,67
+CASE_144,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,67,0,0,593,67,526,0
+CASE_144,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_144,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,507,0,0,593,507,86,0
+CASE_144,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,0,0,0,593,0,593,0
+CASE_144,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_144,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1100,0,0,593,593,0,507
+CASE_144,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,507,0,0,593,507,86,0
+CASE_144,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,0,0,0,593,0,593,0
+CASE_144,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_145,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_145,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_145,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_145,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_145,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_145,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_145,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_145,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,900,0,593,593,0,588
+CASE_145,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_145,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_145,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_145,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_145,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_145,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,900,0,593,593,0,1114
+CASE_145,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1114,0,0,593,593,0,521
+CASE_145,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,521,0,0,593,521,72,0
+CASE_146,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_146,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_146,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_146,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_146,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_146,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_146,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_146,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,900,0,593,593,0,588
+CASE_146,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_146,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_146,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_146,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_146,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_146,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,900,0,593,593,0,1114
+CASE_146,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1114,0,0,593,593,0,521
+CASE_146,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,521,0,0,593,521,72,0
+CASE_147,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_147,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_147,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_147,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_147,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_147,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_147,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_147,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,900,0,593,593,0,588
+CASE_147,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_147,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_147,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_147,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_147,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_147,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,900,0,593,593,0,1114
+CASE_147,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1114,0,0,593,593,0,521
+CASE_147,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,521,0,0,593,521,72,0
+CASE_148,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_148,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_148,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_148,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_148,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_148,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_148,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_148,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,0,0,593,281,312,0
+CASE_148,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_148,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_148,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_148,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_148,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_148,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_148,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,214,900,0,593,593,0,521
+CASE_148,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,521,0,0,593,521,72,0
+CASE_149,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_149,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_149,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_149,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_149,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_149,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_149,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_149,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,0,0,593,281,312,0
+CASE_149,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_149,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_149,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_149,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_149,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_149,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_149,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,214,900,0,593,593,0,521
+CASE_149,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,521,0,0,593,521,72,0
+CASE_150,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_150,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_150,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_150,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_150,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_150,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_150,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_150,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,0,0,593,281,312,0
+CASE_150,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_150,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_150,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_150,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_150,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_150,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_150,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,214,900,0,593,593,0,521
+CASE_150,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,521,0,0,593,521,72,0
+CASE_151,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_151,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_151,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_151,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_151,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_151,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_151,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_151,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,0,0,593,281,312,0
+CASE_151,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_151,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_151,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_151,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_151,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_151,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_151,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,214,0,0,593,214,379,0
+CASE_151,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_152,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_152,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_152,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_152,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_152,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_152,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_152,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_152,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,0,0,593,281,312,0
+CASE_152,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_152,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_152,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_152,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_152,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_152,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_152,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,214,0,0,593,214,379,0
+CASE_152,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_153,Supplier Delay,No Intervention,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_153,Supplier Delay,No Intervention,2,2020-01-12,807,0,0,593,593,0,214
+CASE_153,Supplier Delay,No Intervention,3,2020-01-19,214,0,0,593,214,379,0
+CASE_153,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_153,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_153,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_153,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,214,0,660,593,593,0,281
+CASE_153,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,281,0,0,593,281,312,0
+CASE_153,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_153,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,807,0,0,593,593,0,214
+CASE_153,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,214,0,0,593,214,379,0
+CASE_153,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_153,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1400,0,0,593,593,0,807
+CASE_153,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,807,0,0,593,593,0,214
+CASE_153,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,214,0,0,593,214,379,0
+CASE_153,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_154,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_154,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_154,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_154,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_154,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_154,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_154,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_154,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,900,0,593,593,0,888
+CASE_154,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_154,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_154,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_154,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_154,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_154,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,900,0,593,593,0,1414
+CASE_154,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1414,0,0,593,593,0,821
+CASE_154,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,821,0,0,593,593,0,228
+CASE_155,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_155,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_155,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_155,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_155,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_155,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_155,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_155,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,900,0,593,593,0,888
+CASE_155,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_155,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_155,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_155,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_155,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_155,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,900,0,593,593,0,1414
+CASE_155,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1414,0,0,593,593,0,821
+CASE_155,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,821,0,0,593,593,0,228
+CASE_156,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_156,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_156,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_156,Supplier Delay,No Intervention,4,2020-01-26,0,900,0,593,593,0,307
+CASE_156,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_156,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_156,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_156,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,900,0,593,593,0,888
+CASE_156,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_156,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_156,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_156,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,900,660,593,593,0,967
+CASE_156,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_156,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,900,0,593,593,0,1414
+CASE_156,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,1414,0,0,593,593,0,821
+CASE_156,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,821,0,0,593,593,0,228
+CASE_157,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_157,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_157,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_157,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_157,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_157,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_157,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_157,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,0,0,593,581,12,0
+CASE_157,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_157,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_157,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_157,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_157,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_157,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_157,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,514,900,0,593,593,0,821
+CASE_157,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,821,0,0,593,593,0,228
+CASE_158,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_158,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_158,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_158,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_158,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_158,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_158,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_158,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,0,0,593,581,12,0
+CASE_158,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_158,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_158,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_158,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_158,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_158,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_158,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,514,900,0,593,593,0,821
+CASE_158,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,821,0,0,593,593,0,228
+CASE_159,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_159,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_159,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_159,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_159,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_159,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_159,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_159,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,0,0,593,581,12,0
+CASE_159,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_159,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_159,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_159,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_159,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_159,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_159,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,514,900,0,593,593,0,821
+CASE_159,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,821,0,0,593,593,0,228
+CASE_160,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_160,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_160,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_160,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_160,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_160,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_160,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_160,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,0,0,593,581,12,0
+CASE_160,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_160,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_160,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_160,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_160,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_160,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_160,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,514,0,0,593,514,79,0
+CASE_160,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_161,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_161,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_161,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_161,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_161,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_161,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_161,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_161,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,0,0,593,581,12,0
+CASE_161,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_161,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_161,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_161,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_161,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_161,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_161,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,514,0,0,593,514,79,0
+CASE_161,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307
+CASE_162,Supplier Delay,No Intervention,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_162,Supplier Delay,No Intervention,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_162,Supplier Delay,No Intervention,3,2020-01-19,514,0,0,593,514,79,0
+CASE_162,Supplier Delay,No Intervention,4,2020-01-26,0,0,0,593,0,593,0
+CASE_162,Supplier Delay,Bridge 660 Units - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_162,Supplier Delay,Bridge 660 Units - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_162,Supplier Delay,Bridge 660 Units - Week 3,3,2020-01-19,514,0,660,593,593,0,581
+CASE_162,Supplier Delay,Bridge 660 Units - Week 3,4,2020-01-26,581,0,0,593,581,12,0
+CASE_162,Supplier Delay,Bridge 660 Units - Week 4,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_162,Supplier Delay,Bridge 660 Units - Week 4,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_162,Supplier Delay,Bridge 660 Units - Week 4,3,2020-01-19,514,0,0,593,514,79,0
+CASE_162,Supplier Delay,Bridge 660 Units - Week 4,4,2020-01-26,0,0,660,593,593,0,67
+CASE_162,Supplier Delay,Expedite Original 900 - Week 3,1,2020-01-05,1700,0,0,593,593,0,1107
+CASE_162,Supplier Delay,Expedite Original 900 - Week 3,2,2020-01-12,1107,0,0,593,593,0,514
+CASE_162,Supplier Delay,Expedite Original 900 - Week 3,3,2020-01-19,514,0,0,593,514,79,0
+CASE_162,Supplier Delay,Expedite Original 900 - Week 3,4,2020-01-26,0,900,0,593,593,0,307

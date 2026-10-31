@@ -1,0 +1,8 @@
+Scenario,Lowest_Ready_Action,Cases,Share_of_Cases_Pct
+Demand Surge,Add 276 Units - Week 4,12,14.814814814814813
+Demand Surge,NO READY OPTION,48,59.25925925925925
+Demand Surge,No Intervention,21,25.925925925925924
+Supplier Delay,Bridge 660 Units - Week 3,12,14.814814814814813
+Supplier Delay,Expedite Original 900 - Week 3,36,44.44444444444444
+Supplier Delay,NO READY OPTION,24,29.629629629629626
+Supplier Delay,No Intervention,9,11.11111111111111
