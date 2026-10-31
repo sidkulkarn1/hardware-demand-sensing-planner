@@ -1,0 +1,4 @@
+Horizon_Weeks,Forecasts,MAE,RMSE,Bias,Underforecast_Weeks,Overforecast_Weeks,P80_Absolute_Error,P90_Absolute_Error,P90_Underforecast_Units,Maximum_Absolute_Error
+1,16,31.5,49.25824804030285,-17.75,10,6,38.0,76.5,76.5,148.0
+2,16,43.875,69.87399373157369,-31.25,10,6,105.0,133.0,133.0,167.0
+4,16,75.125,97.43523489990672,-60.625,9,6,143.0,150.0,150.0,159.0
