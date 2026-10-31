@@ -1,0 +1,9 @@
+Experiment,Target_Unit,Model,MAE,WAPE_Pct,Bias
+AirPods Weekly Units,Units,Naive Forecast,22.157894736842106,8.600612870275793,-3.4210526315789473
+AirPods Weekly Units,Units,4-Week Moving Average,26.56578947368421,10.311542390194075,4.4605263157894735
+AirPods Weekly Units,Units,Holt's Damped Trend,28.2412580704026,10.961877494129713,1.0950256590098835
+AirPods Weekly Units,Units,Ridge Regression,32.679158744247665,12.684453853742708,18.201121939660194
+AirPods Weekly Units,Units,Linear Regression,66.41248258149578,25.77808312662758,54.06390131324692
+Apple Headphone Daily Purchase Events,Events,Ridge - Purchase History,68.09,10.84,-36.83
+Apple Headphone Daily Purchase Events,Events,Ridge - Demand Signals,71.2,11.33,-7.38
+Apple Headphone Daily Purchase Events,Events,Naive Forecast,97.88,15.58,11.53

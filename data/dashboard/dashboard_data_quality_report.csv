@@ -1,0 +1,17 @@
+File_Name,Source_Module,Rows,Columns,Missing_Cells,Duplicate_Rows,Start_Date,End_Date,Row_Check
+airpods_weekly_2019.csv,Historical Demand Forecasting,51,2,0,0,2019-01-13,2019-12-29,PASS
+apple_headphones_daily_2019.csv,eCommerce Behavior,61,9,1,0,2019-10-01,2019-11-30,PASS
+apple_headphones_weekly_2019.csv,eCommerce Behavior,9,10,0,0,2019-10-06,2019-12-01,PASS
+demand_sensing_holdout_predictions_2019.csv,eCommerce Behavior,17,5,0,0,2019-11-10,2019-11-30,PASS
+demand_sensing_model_comparison_2019.csv,eCommerce Behavior,3,4,0,0,N/A,N/A,PASS
+model_performance_rolling_2019.csv,Historical Demand Forecasting,5,7,0,0,N/A,N/A,Not specified
+model_predictions_rolling_2019.csv,Historical Demand Forecasting,19,7,0,0,2019-06-02,2019-10-06,Not specified
+purchase_intent_confusion_summary.csv,Purchase Intent,2,5,0,0,N/A,N/A,PASS
+purchase_intent_model_leaderboard.csv,Purchase Intent,7,7,0,0,N/A,N/A,PASS
+retail_category_monthly_2019.csv,Retail Analytics,48,4,0,0,2019-01-01,2019-12-01,PASS
+retail_channel_demand.csv,Retail Analytics,2,5,0,0,N/A,N/A,PASS
+retail_country_demand.csv,Retail Analytics,8,5,0,0,N/A,N/A,PASS
+retail_monthly_coverage.csv,Retail Analytics,60,4,0,0,2016-01-01,2020-12-01,PASS
+retail_monthly_demand.csv,Retail Analytics,62,10,6,0,2016-01-01,2021-02-01,PASS
+retail_top_products.csv,Retail Analytics,15,6,0,0,N/A,N/A,PASS
+retail_yearly_demand.csv,Retail Analytics,6,7,0,0,2016,2021,PASS

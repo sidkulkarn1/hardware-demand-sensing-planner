@@ -181,3 +181,12 @@ cython_debug/
 .cursorindexingignore
 
 .venv/
+
+
+# Generated DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/

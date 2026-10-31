@@ -1,0 +1,17 @@
+File_Name,Source_Module,Grain,Business_Meaning,Analytical_Role
+airpods_weekly_2019.csv,Historical Demand Forecasting,Week,Historical units sold,Forecasting input
+apple_headphones_daily_2019.csv,eCommerce Behavior,Day,"Views, carts, purchase events",Demand signals
+apple_headphones_weekly_2019.csv,eCommerce Behavior,Week,Aggregated behavioral events,Demand signals
+demand_sensing_holdout_predictions_2019.csv,eCommerce Behavior,Day,Actual versus predicted purchase events,Forecast validation
+demand_sensing_model_comparison_2019.csv,eCommerce Behavior,Forecast model,Behavioral model comparison,Model evaluation
+model_performance_rolling_2019.csv,Historical Demand Forecasting,Forecast model,Rolling backtest performance,Model evaluation
+model_predictions_rolling_2019.csv,Historical Demand Forecasting,Week,Actual versus predicted demand,Forecast validation
+purchase_intent_confusion_summary.csv,Purchase Intent,Classification model,Prediction outcome counts,Model evaluation
+purchase_intent_model_leaderboard.csv,Purchase Intent,Model x feature group,Classification performance,Purchase intent research
+retail_category_monthly_2019.csv,Retail Analytics,Month x category,Retail category demand,Product mix analysis
+retail_channel_demand.csv,Retail Analytics,Sales channel,Online versus physical sales,Channel analysis
+retail_country_demand.csv,Retail Analytics,Country,Geographic demand,Regional analysis
+retail_monthly_coverage.csv,Retail Analytics,Month,Recorded sales-day coverage,Data quality
+retail_monthly_demand.csv,Retail Analytics,Month,Retail demand and coverage,Historical demand intelligence
+retail_top_products.csv,Retail Analytics,Product,Top-selling products,Product analysis
+retail_yearly_demand.csv,Retail Analytics,Year,Annual retail demand,Historical demand intelligence
