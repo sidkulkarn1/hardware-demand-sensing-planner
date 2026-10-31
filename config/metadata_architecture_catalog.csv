@@ -1,0 +1,38 @@
+File_Name,Source_Module,Grain,Business_Meaning,Analytical_Role
+airpods_weekly_2019.csv,Historical Demand Forecasting,Week,Historical units sold,Forecasting input
+apple_headphones_daily_2019.csv,eCommerce Behavior,Day,"Views, carts, purchase events",Demand signals
+apple_headphones_weekly_2019.csv,eCommerce Behavior,Week,Aggregated behavioral events,Demand signals
+demand_sensing_holdout_predictions_2019.csv,eCommerce Behavior,Day,Actual versus predicted purchase events,Forecast validation
+demand_sensing_model_comparison_2019.csv,eCommerce Behavior,Forecast model,Behavioral model comparison,Model evaluation
+model_performance_rolling_2019.csv,Historical Demand Forecasting,Forecast model,Rolling backtest performance,Model evaluation
+model_predictions_rolling_2019.csv,Historical Demand Forecasting,Week,Actual versus predicted demand,Forecast validation
+purchase_intent_confusion_summary.csv,Purchase Intent,Classification model,Prediction outcome counts,Model evaluation
+purchase_intent_model_leaderboard.csv,Purchase Intent,Model x feature group,Classification performance,Purchase intent research
+retail_category_monthly_2019.csv,Retail Analytics,Month x category,Retail category demand,Product mix analysis
+retail_channel_demand.csv,Retail Analytics,Sales channel,Online versus physical sales,Channel analysis
+retail_country_demand.csv,Retail Analytics,Country,Geographic demand,Regional analysis
+retail_monthly_coverage.csv,Retail Analytics,Month,Recorded sales-day coverage,Data quality
+retail_monthly_demand.csv,Retail Analytics,Month,Retail demand and coverage,Historical demand intelligence
+retail_top_products.csv,Retail Analytics,Product,Top-selling products,Product analysis
+retail_yearly_demand.csv,Retail Analytics,Year,Annual retail demand,Historical demand intelligence
+forecast_multihorizon_predictions_2019.csv,Historical Demand Forecasting,Origin x Target x Horizon x Model,Historical rolling-origin predictions,Forecast validation
+forecast_multihorizon_performance_2019.csv,Historical Demand Forecasting,Horizon x Model,Multi-horizon forecasting accuracy,Model evaluation
+forecast_uncertainty_summary_2019.csv,Historical Demand Forecasting,Forecast Horizon,Historical naive forecast error statistics,Forecast risk
+forecast_stability_summary_2019.csv,Historical Demand Forecasting,Horizon x Evaluation Period,Early versus late forecasting performance,Model stability
+forecast_lead_time_baseline_2019.csv,Historical Demand Forecasting,Illustrative Forecast Week,Weekly and cumulative lead-time demand,Inventory scenario input
+inventory_scenario_definitions.csv,Inventory & Launch Readiness,Scenario,Hypothetical inventory and supply inputs,Scenario configuration
+inventory_weekly_simulation.csv,Inventory & Launch Readiness,Scenario x Week,Weekly inventory balances and fulfillment,Inventory simulation
+inventory_scenario_performance.csv,Inventory & Launch Readiness,Scenario,"Demand, shortages and fill rates",Service evaluation
+inventory_risk_summary.csv,Inventory & Launch Readiness,Scenario,Shortage timing and magnitude,Inventory risk
+inventory_intervention_weekly.csv,Inventory & Launch Readiness,Scenario x Action x Week,Weekly replenishment intervention results,Recovery simulation
+inventory_launch_readiness.csv,Inventory & Launch Readiness,Scenario x Action,Readiness and economic tradeoffs,Decision evaluation
+inventory_candidate_actions.csv,Inventory & Launch Readiness,Scenario,Lowest modeled exposure among ready actions,Candidate decisions
+inventory_decision_assumptions.csv,Inventory & Launch Readiness,Assumption,Hypothetical economic and service parameters,Scenario assumptions
+sensitivity_intervention_evaluations.csv,Inventory Sensitivity Analysis,Case x Action,Matched intervention evaluations,Robustness analysis
+sensitivity_weekly_inventory.csv,Inventory Sensitivity Analysis,Case x Action x Week,Weekly inventory sensitivity results,Inventory simulation
+sensitivity_action_robustness.csv,Inventory Sensitivity Analysis,Scenario x Action,Replenishment robustness scorecard,Decision evaluation
+sensitivity_decision_cases.csv,Inventory Sensitivity Analysis,Operating Case,Selected actions and readiness availability,Decision comparison
+sensitivity_decision_coverage.csv,Inventory Sensitivity Analysis,Scenario,Availability of READY interventions,Decision coverage
+sensitivity_action_frequency.csv,Inventory Sensitivity Analysis,Scenario x Selected Action,Frequency of selected decisions,Decision analysis
+sensitivity_shortage_penalty.csv,Inventory Sensitivity Analysis,Scenario x Penalty x Action,Shortage penalty sensitivity,Economic analysis
+sensitivity_economic_tradeoffs.csv,Inventory Sensitivity Analysis,Scenario x Penalty,Modeled exposure reductions,Economic analysis

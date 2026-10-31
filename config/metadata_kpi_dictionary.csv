@@ -1,0 +1,9 @@
+KPI,Module,Definition,Unit
+Weekly Units Sold,Historical Demand Forecasting,Observed units sold during a week,Units
+Forecast WAPE,Historical Demand Forecasting,Sum absolute errors / sum actual demand,%
+Forecast Bias,Historical Demand Forecasting,Mean predicted demand minus actual demand,Units or events
+Product Views,eCommerce Behavior,Recorded product-view events,Events
+Cart Activity,eCommerce Behavior,Recorded add-to-cart events,Events
+Purchase Events,eCommerce Behavior,"Recorded purchase events, not verified units",Events
+Retail Units Sold,Retail Analytics,Aggregated historical retail units,Units
+Purchase Intent ROC-AUC,Purchase Intent,Classification ranking performance,Score (0-1)
