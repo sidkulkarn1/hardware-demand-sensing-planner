@@ -1,0 +1,4 @@
+Scenario,Demand_Multiplier,Starting_Inventory,Inbound_Units,Inbound_Week
+Baseline,1.0,1400,900,3
+Demand Surge,1.25,1400,900,3
+Supplier Delay,1.0,1400,900,5

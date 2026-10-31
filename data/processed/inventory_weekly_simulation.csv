@@ -1,0 +1,13 @@
+Scenario,Week,Forecast_Week,Beginning_Inventory,Inbound_Receipts,Available_Inventory,Demand_Units,Fulfilled_Units,Shortage_Units,Ending_Inventory,Shortage_Flag,Weekly_Fill_Rate_Pct
+Baseline,1,2020-01-05,1400,0,1400,515,515,0,885,0,100.0
+Baseline,2,2020-01-12,885,0,885,515,515,0,370,0,100.0
+Baseline,3,2020-01-19,370,900,1270,515,515,0,755,0,100.0
+Baseline,4,2020-01-26,755,0,755,515,515,0,240,0,100.0
+Demand Surge,1,2020-01-05,1400,0,1400,644,644,0,756,0,100.0
+Demand Surge,2,2020-01-12,756,0,756,644,644,0,112,0,100.0
+Demand Surge,3,2020-01-19,112,900,1012,644,644,0,368,0,100.0
+Demand Surge,4,2020-01-26,368,0,368,644,368,276,0,1,57.14285714285714
+Supplier Delay,1,2020-01-05,1400,0,1400,515,515,0,885,0,100.0
+Supplier Delay,2,2020-01-12,885,0,885,515,515,0,370,0,100.0
+Supplier Delay,3,2020-01-19,370,0,370,515,370,145,0,1,71.84466019417476
+Supplier Delay,4,2020-01-26,0,0,0,515,0,515,0,1,0.0

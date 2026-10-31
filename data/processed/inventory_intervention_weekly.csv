@@ -1,0 +1,29 @@
+Scenario,Action,Week,Demand,Original_Receipts,Extra_Receipts,Beginning_Inventory,Fulfilled,Shortage,Ending_Inventory
+Demand Surge,No Intervention,1,644,0,0,1400,644,0,756
+Demand Surge,No Intervention,2,644,0,0,756,644,0,112
+Demand Surge,No Intervention,3,644,900,0,112,644,0,368
+Demand Surge,No Intervention,4,644,0,0,368,368,276,0
+Demand Surge,Add 276 Units - Week 4,1,644,0,0,1400,644,0,756
+Demand Surge,Add 276 Units - Week 4,2,644,0,0,756,644,0,112
+Demand Surge,Add 276 Units - Week 4,3,644,900,0,112,644,0,368
+Demand Surge,Add 276 Units - Week 4,4,644,0,276,368,644,0,0
+Demand Surge,Add 276 Units - Week 5,1,644,0,0,1400,644,0,756
+Demand Surge,Add 276 Units - Week 5,2,644,0,0,756,644,0,112
+Demand Surge,Add 276 Units - Week 5,3,644,900,0,112,644,0,368
+Demand Surge,Add 276 Units - Week 5,4,644,0,0,368,368,276,0
+Supplier Delay,No Intervention,1,515,0,0,1400,515,0,885
+Supplier Delay,No Intervention,2,515,0,0,885,515,0,370
+Supplier Delay,No Intervention,3,515,0,0,370,370,145,0
+Supplier Delay,No Intervention,4,515,0,0,0,0,515,0
+Supplier Delay,Bridge 660 Units - Week 3,1,515,0,0,1400,515,0,885
+Supplier Delay,Bridge 660 Units - Week 3,2,515,0,0,885,515,0,370
+Supplier Delay,Bridge 660 Units - Week 3,3,515,0,660,370,515,0,515
+Supplier Delay,Bridge 660 Units - Week 3,4,515,0,0,515,515,0,0
+Supplier Delay,Bridge 660 Units - Week 4,1,515,0,0,1400,515,0,885
+Supplier Delay,Bridge 660 Units - Week 4,2,515,0,0,885,515,0,370
+Supplier Delay,Bridge 660 Units - Week 4,3,515,0,0,370,370,145,0
+Supplier Delay,Bridge 660 Units - Week 4,4,515,0,660,0,515,0,145
+Supplier Delay,Expedite Original 900 - Week 3,1,515,0,0,1400,515,0,885
+Supplier Delay,Expedite Original 900 - Week 3,2,515,0,0,885,515,0,370
+Supplier Delay,Expedite Original 900 - Week 3,3,515,900,0,370,515,0,755
+Supplier Delay,Expedite Original 900 - Week 3,4,515,0,0,755,515,0,240

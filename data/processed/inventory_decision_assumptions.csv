@@ -1,0 +1,7 @@
+Parameter,Value,Unit,Source
+Launch fill target,98.0,%,Hypothetical
+Watch threshold,90.0,%,Hypothetical
+Shortage penalty,75.0,USD per unit,Hypothetical
+Emergency supply premium,12.0,USD per unit,Hypothetical
+Emergency delivery fee,500.0,USD per shipment,Hypothetical
+Original shipment expedite fee,2500.0,USD per shipment,Hypothetical

@@ -1,0 +1,4 @@
+Scenario,First_Shortage_Week,First_Shortage_Date,Shortage_Weeks,Peak_Weekly_Shortage,Total_Unfulfilled_Units,Unfulfilled_Demand_Pct,Overall_Fill_Rate_Pct,Fill_Rate_Gap_vs_Baseline_pp,Additional_Units_Needed
+Baseline,,N/A,0,0,0,0.0,100.0,0.0,0
+Demand Surge,4.0,2020-01-26,1,276,276,10.714285714285714,89.28571428571429,10.714285714285708,276
+Supplier Delay,3.0,2020-01-19,2,515,660,32.038834951456316,67.96116504854369,32.03883495145631,660
