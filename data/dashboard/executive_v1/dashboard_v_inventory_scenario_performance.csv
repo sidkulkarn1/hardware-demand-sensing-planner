@@ -1,0 +1,4 @@
+Scenario,Total_Demand,Total_Fulfilled,Total_Shortage,Receipts_In_Horizon,Shortage_Weeks,Ending_Inventory,Fill_Rate_Pct
+Baseline,2060,2060,0,900,0,240,100.0
+Demand Surge,2576,2300,276,900,1,0,89.28571428571429
+Supplier Delay,2060,1400,660,0,2,0,67.96116504854369

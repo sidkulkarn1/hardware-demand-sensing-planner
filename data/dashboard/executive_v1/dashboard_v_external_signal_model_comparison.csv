@@ -1,0 +1,4 @@
+Model,Forecasts,MAE,WAPE_Pct,Bias,WAPE_Gap_vs_Naive_pp,Benchmark_Interpretation
+Naive Forecast,19,22.157894736842106,8.600612870275793,-3.4210526315789473,0.0,Benchmark
+Ridge - Sales + Google Trends,19,25.54814591401786,9.916542847116228,9.755460279559996,1.315929976840435,Worse than or equal to naive
+Ridge - Sales History,19,28.03530613101299,10.881937006930476,12.981335887384796,2.2813241366546837,Worse than or equal to naive

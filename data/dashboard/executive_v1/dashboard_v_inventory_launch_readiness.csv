@@ -1,0 +1,8 @@
+Scenario,Action,Total_Shortage,Shortage_Weeks,Fill_Rate_Pct,Readiness_Status,Illustrative_Exposure_USD,Exposure_Reduction_vs_No_Action_USD,Total_Outstanding_Units
+Demand Surge,No Intervention,276,1,89.28571428571429,AT RISK,20700.0,0.0,0
+Demand Surge,Add 276 Units - Week 4,0,0,100.0,READY,3812.0,16888.0,0
+Demand Surge,Add 276 Units - Week 5,276,1,89.28571428571429,AT RISK,20700.0,0.0,276
+Supplier Delay,No Intervention,660,2,67.96116504854369,AT RISK,49500.0,0.0,900
+Supplier Delay,Bridge 660 Units - Week 3,0,0,100.0,READY,8420.0,41080.0,900
+Supplier Delay,Bridge 660 Units - Week 4,145,1,92.96116504854369,WATCH,19295.0,30205.0,900
+Supplier Delay,Expedite Original 900 - Week 3,0,0,100.0,READY,2500.0,47000.0,0

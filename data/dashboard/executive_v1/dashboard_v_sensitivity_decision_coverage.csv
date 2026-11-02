@@ -1,0 +1,3 @@
+Scenario,Operating_Cases,Cases_With_Ready_Action,Reference_Ready_Cases,No_Action_Ready_Cases,Lowest_Cost_Ready_Cases,No_Ready_Option_Cases,Ready_Option_Coverage_Pct,Reference_Ready_Rate_Pct
+Demand Surge,81,33,33,21,33,48,40.74074074074074,40.74074074074074
+Supplier Delay,81,57,45,9,48,24,70.37037037037037,55.55555555555556

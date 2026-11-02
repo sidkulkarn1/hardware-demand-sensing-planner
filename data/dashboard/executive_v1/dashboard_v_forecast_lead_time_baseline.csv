@@ -1,0 +1,5 @@
+Forecast_Origin,Forecast_Week,Lead_Time_Weeks,Model,Forecast_Weekly_Units,Cumulative_Forecast_Units,Scenario_Type
+2019-12-29,2020-01-05,1,Naive Forecast,515.0,515.0,Historical Illustrative Baseline
+2019-12-29,2020-01-12,2,Naive Forecast,515.0,1030.0,Historical Illustrative Baseline
+2019-12-29,2020-01-19,3,Naive Forecast,515.0,1545.0,Historical Illustrative Baseline
+2019-12-29,2020-01-26,4,Naive Forecast,515.0,2060.0,Historical Illustrative Baseline
