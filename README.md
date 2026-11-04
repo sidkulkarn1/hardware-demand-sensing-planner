@@ -175,6 +175,77 @@ The validated rebuild uses prepared analytical inputs and a copied source databa
 
 This architecture separates analytical calculations from executive reporting and supports traceable, evidence-based supply chain decisions.
 
+## 4. Data Sources & Data Preparation
+
+### 4.1 Data Sources
+
+The project incorporates multiple publicly available electronics-related datasets alongside external Google Trends indicators. These sources support distinct analyses of demand forecasting, customer behavior, retail activity, and market conditions.
+
+| Data Source | Analytical Purpose |
+|---|---|
+| Electronics – Monthly Sales 2019 | Historical AirPods demand analysis, weekly demand aggregation, and forecasting model evaluation |
+| eCommerce Behavior Data from Multi-Category Store | Exploration of customer interactions, product activity, and purchasing behavior |
+| Global Electronics Retailers | Analysis of broader electronics retail patterns and commercial performance |
+| Consumer Electronics Purchase Intent | Supplemental analysis of consumer interest and purchasing indicators |
+| Google Trends | External search-interest signals used to investigate potential forecasting improvements |
+
+The historical datasets primarily represent the 2019–2020 period, although coverage varies by source. Google Trends data is analyzed at a weekly frequency for the selected historical comparison period.
+
+**Important:** These datasets do not necessarily represent the same customers, products, retailers, or markets. Their outputs are analyzed separately unless a clearly defined transformation or temporal alignment supports comparison.
+
+### 4.2 Data Cleaning & Transformation
+
+Data preparation was conducted primarily using Python, Pandas, and DuckDB.
+
+The workflow included:
+
+- **Schema inspection:** Examining column definitions, data types, and source structures.
+- **Data quality checks:** Reviewing missing values, duplicate records, and inconsistent fields.
+- **Temporal aggregation:** Transforming applicable transaction-level observations into weekly analytical datasets.
+- **Feature engineering:** Constructing demand, forecasting, inventory, and external-signal variables.
+- **SQL transformations:** Creating structured analytical tables and reporting views in DuckDB.
+- **Reconciliation:** Comparing processed datasets, warehouse outputs, and Tableau exports to verify reporting consistency.
+
+Intermediate datasets were retained as processed CSV files, supporting analytical traceability and repeatable downstream reporting.
+
+### 4.3 Historical Demand Dataset
+
+The primary forecasting experiment uses historical AirPods demand aggregated into **51 weekly observations totaling 15,364 units**.
+
+This dataset serves as the basis for comparing five forecasting approaches through 19 rolling-origin evaluation periods.
+
+Forecast performance is measured using:
+
+- **Mean Absolute Error (MAE):** Average absolute difference between actual and forecast demand.
+- **Weighted Absolute Percentage Error (WAPE):** Total absolute forecast error relative to total actual demand.
+- **Forecast Bias:** Direction and magnitude of systematic over- or underforecasting.
+
+The weekly historical series is treated as an analytical benchmark rather than a representation of current AirPods market demand.
+
+### 4.4 External Demand Signals
+
+Google Trends data provides a supplementary perspective on historical consumer search interest.
+
+Six search-interest signals were processed and incorporated into the external-signal analysis. Weekly signal observations were aligned with the historical demand evaluation where applicable, with particular attention to data availability at each forecast origin.
+
+The external-signal experiment examines whether search-interest information improves predictive performance relative to a comparable sales-history-only model.
+
+Results showed improvement within the Ridge regression comparison, but the signal-enhanced Ridge model did not outperform the original naive forecast benchmark.
+
+Google Trends measures normalized relative search interest rather than product sales or actual customer orders. Consequently, search activity is treated as a potential forecasting indicator—not a direct measure of demand or proof of causation.
+
+### 4.5 Data Limitations
+
+Several limitations should be considered when interpreting the results:
+
+1. **Historical coverage:** The datasets largely reflect past electronics market conditions and may not represent current consumer behavior or supply chain dynamics.
+2. **Dataset heterogeneity:** Sources differ in product scope, observation granularity, geographic coverage, and commercial context.
+3. **External-signal uncertainty:** Search-interest trends may correlate with demand without providing consistent incremental predictive value.
+4. **Limited forecasting sample:** The primary forecasting evaluation uses a relatively short historical weekly series.
+5. **Simulated supply planning:** Inventory quantities, replenishment interventions, and economic penalty assumptions are modeled rather than observed operating results.
+
+These limitations are explicitly acknowledged to distinguish validated analytical findings from hypothetical operational scenarios.
+
 ## 5. Demand Forecasting & Model Evaluation
 
 ### 5.1 Forecasting Objective

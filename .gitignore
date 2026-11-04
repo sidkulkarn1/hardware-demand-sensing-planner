@@ -196,3 +196,7 @@ __pycache__/
 
 # Tableau recovery files
 *.twbr
+
+# Large raw datasets
+data/raw/
+
