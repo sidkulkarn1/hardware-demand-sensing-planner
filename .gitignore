@@ -190,3 +190,9 @@ cython_debug/
 # Python temporary files
 __pycache__/
 .ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+
+# Tableau recovery files
+*.twbr
