@@ -671,33 +671,45 @@ Collectively, these practices strengthen confidence in the project's analytical 
 
 ### 10.1 Repository Organization
 
-The project is organized into modular Jupyter notebooks, processed datasets, DuckDB databases, configuration files, reporting exports, and visualization assets.
+The project is organized into 14 numbered Jupyter notebooks, processed analytical datasets, DuckDB databases, configuration files, Tableau workbooks, dashboard exports, and technical documentation.
+
+The notebooks are located directly in the repository root rather than in a separate `notebooks/` directory.
 
 | Directory / File | Purpose |
 |---|---|
-| `notebooks/` | Jupyter notebooks covering data preparation, forecasting, inventory modeling, sensitivity analysis, and validation |
-| `data/processed/` | Cleaned and transformed datasets used throughout the analytical workflow |
-| `data/warehouse/` | DuckDB analytical databases supporting SQL transformations and reporting |
+| `00_environment_check.ipynb` – `13_final_project_validation.ipynb` | Fourteen numbered notebooks covering environment setup, data preparation, forecasting, inventory modeling, sensitivity analysis, executive reporting, and technical validation |
+| `data/processed/` | Cleaned and transformed analytical datasets used throughout the workflow |
+| `data/warehouse/` | DuckDB databases supporting SQL transformations, analytical tables, and reporting views |
+| `data/dashboard/` | Dashboard-ready datasets and analytical reporting exports |
+| `data/raw/` | Local raw-data storage, where applicable; excluded from public version control |
 | `config/` | Configuration files supporting data processing and external-signal workflows |
-| `assets/dashboards/` | Tableau dashboard screenshots for project documentation |
-| `README.md` | Project overview, methodologies, results, and reproduction guidance |
+| `tableau/` | Tableau workbook containing the project's interactive dashboards and supporting worksheets |
+| `tableau/exports/` | Standalone PDF exports of the four executive dashboards |
+| `assets/dashboards/` | PNG dashboard previews embedded directly in the README |
+| `reports/` | Supporting project reports and analytical documentation |
+| `README.md` | Project overview, methodology, validated results, architecture, and reproduction guidance |
 
-*Some datasets and database files may be excluded from GitHub because of file size, source licensing, or repository management considerations.*
+*Some raw datasets and database files are excluded from the public repository because of file size, licensing, or repository management considerations. The presence of a directory does not necessarily mean that all locally generated files are publicly available.*
 
 ### 10.2 Key Analytical Notebooks
 
-The project contains 13 development and validation notebooks, organized around the major analytical stages.
+The project includes **14 numbered Jupyter notebooks (00–13)**, consisting of an environment setup notebook and 13 analytical, reporting, and validation notebooks.
 
-The following notebooks are particularly useful for understanding and reviewing the later stages of the workflow:
+These notebooks document the workflow from initial data exploration through final technical verification.
+
+The following notebooks are particularly useful for reviewing the later stages of the project:
 
 | Notebook | Primary Function |
 |---|---|
-| `09_inventory_sensitivity_analysis.ipynb` | Evaluates replenishment actions across alternative operating assumptions |
+| `07_forecasting_validation.ipynb` | Evaluates forecasting accuracy and validates historical model performance |
+| `08_inventory_launch_scenarios.ipynb` | Simulates inventory disruptions, fulfillment performance, and replenishment outcomes |
+| `09_inventory_sensitivity_analysis.ipynb` | Evaluates replenishment robustness across alternative operating assumptions |
 | `10_reproducible_data_pipeline.ipynb` | Reconstructs the documented DuckDB reporting pipeline |
 | `11_external_demand_signals.ipynb` | Processes external search-interest indicators and evaluates their forecasting contribution |
-| `13_final_project_validation.ipynb` | Independently verifies analytical results and reporting reproducibility |
+| `12_executive_dashboard_preparation.ipynb` | Prepares validated analytical outputs for executive reporting |
+| `13_final_project_validation.ipynb` | Independently verifies forecasting, inventory, sensitivity, and reporting reproducibility results |
 
-Earlier notebooks document the underlying data preparation, forecasting, inventory simulation, and decision-analysis workflows.
+Earlier notebooks (`00`–`06`) document environment configuration, source exploration, data preparation, forecasting development, and integration of the analytical framework.
 
 ### 10.3 Technology Requirements
 
@@ -708,44 +720,54 @@ The project was developed using:
 - **Pandas and NumPy** for data preparation and numerical analysis.
 - **DuckDB and SQL** for structured data management and reporting.
 - **scikit-learn and statsmodels** for forecasting experiments.
-- **Tableau** for interactive executive dashboards.
-- **Git and GitHub** for version control and documentation.
+- **Tableau Public** for interactive executive dashboard development.
+- **Git and GitHub** for version control, project documentation, and publication.
 
 ### 10.4 Recommended Review Workflow
 
 For readers interested in exploring the project:
 
 1. **Review the README:** Understand the business problem, analytical objectives, validated outcomes, and limitations.
-2. **Inspect the forecasting notebooks:** Review historical demand preparation, model configurations, and backtesting results.
-3. **Explore the inventory models:** Examine scenario assumptions, fulfillment calculations, and replenishment interventions.
-4. **Review the sensitivity analysis:** Understand operating-case variations, readiness requirements, and decision robustness.
-5. **Inspect the DuckDB reporting workflow:** Review SQL transformations and reporting-view definitions.
-6. **Examine the validation notebook:** Review the independent numerical reconciliation and isolated reporting-rebuild checks.
-7. **Explore the Tableau dashboards:** Interpret the analytical results through executive reporting visuals.
+2. **Inspect the forecasting notebooks:** Review historical demand preparation, model configurations, rolling-origin backtesting, and forecasting performance.
+3. **Explore the inventory models:** Examine scenario assumptions, fulfillment calculations, inventory projections, and replenishment interventions.
+4. **Review the sensitivity analysis:** Understand operating-case variations, readiness requirements, economic exposure, and intervention robustness.
+5. **Inspect the DuckDB reporting workflow:** Review SQL transformations, analytical tables, and reporting-view definitions.
+6. **Examine the validation notebook:** Review independent numerical reconciliation, source-data integrity, and isolated warehouse-rebuild checks.
+7. **Explore the Tableau dashboards:** Review all four dashboards through the embedded PNG previews, downloadable PDFs, or Tableau workbook.
 
 ### 10.5 Reproduction Considerations
 
-Reproducing the complete project requires the appropriate source datasets, processed analytical files, Python dependencies, configuration settings, and compatible database environment.
+Reproducing the complete project requires the appropriate source datasets, processed analytical files, Python dependencies, configuration settings, and a compatible database environment.
 
-The documented isolated warehouse rebuild was successfully executed using prepared analytical inputs and a copied source database. All 18 resulting reporting views were reconciled against the final reference warehouse.
+The documented isolated warehouse rebuild was successfully executed using prepared analytical inputs and a copied source database. All **18 final reporting views** were independently reconciled against the validated reference warehouse, with no identified reporting-content discrepancies.
 
-However, this process should not be interpreted as a fully automated reconstruction from original raw downloads.
+However, the documented process should not be interpreted as a fully automated reconstruction from original raw data downloads.
 
-The validation notebook provides detailed evidence for analytical consistency, warehouse integrity, and reporting reproducibility within the tested scope.
+Additional considerations include:
 
-### 10.6 Outputs
+- Large external datasets may require separate acquisition before executing the complete analytical workflow.
+- Some notebooks depend on previously generated processed datasets or DuckDB tables.
+- Local source-data paths may require adjustment when running the project on another machine.
+- Tableau workbook data connections may require updating if the underlying datasets are stored in different directories.
+- PDF and PNG dashboard exports can be reviewed independently of the Tableau development environment.
+
+The final validation notebook provides detailed evidence of analytical consistency, warehouse integrity, and reporting reproducibility within the tested scope.
+
+### 10.6 Project Outputs
 
 The primary project deliverables include:
 
-- Historical demand datasets and forecasting evaluation results.
+- Historical demand datasets and independently validated forecasting evaluations.
 - External demand-signal analysis and model comparisons.
 - Inventory simulation and replenishment scenario outputs.
-- Sensitivity and decision-readiness evaluations.
-- DuckDB reporting tables and views.
-- Tableau executive dashboards and documentation.
-- An independently validated technical audit.
+- Sensitivity testing across 162 operating cases and 567 intervention evaluations.
+- Modeled replenishment economics and launch-readiness recommendations.
+- DuckDB analytical tables and 18 validated reporting views.
+- Four Tableau executive dashboards, including PNG previews and PDF exports.
+- An editable Tableau workbook containing the dashboard worksheets and visualizations.
+- A dedicated final technical validation notebook.
 
-Together, these outputs demonstrate a structured analytical workflow connecting historical demand intelligence to simulated supply planning and decision support.
+Together, these deliverables demonstrate an analytical workflow connecting historical demand forecasting, inventory risk assessment, replenishment decision modeling, and executive supply chain reporting.
 
 ## 11. Limitations, Future Improvements & Project Takeaways
 
