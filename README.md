@@ -94,3 +94,21 @@ With those prerequisites supplied, execute the numbered notebooks from the repos
 Historical sales are a teaching-data benchmark, not verified Apple operations. Supply quantities, lead times, penalties, and interventions are hypothetical. The short forecast history limits generalization; external signals do not establish causation or consistently superior forecasts.
 
 The most useful extensions are portable source paths, a recorded dependency environment, a complete raw-data rebuild, and testing with longer histories and actual inventory records.
+
+## Challenges I Addressed
+
+The main challenge was turning several independent analytical experiments into a planning recommendation without overstating what their data could establish.
+
+| Challenge | How I addressed it | Why it mattered |
+|---|---|---|
+| Different datasets describe different products, customers, and time periods | I kept the sales, eCommerce, retail, and purchase-intent analyses separate unless a documented transformation supported comparison. | This avoided implying that unrelated sources formed a single transactional dataset. |
+| More complex models did not automatically forecast better | I compared forecasting methods against a naive baseline using historical, time-ordered evaluations and distinguished the external-signal experiment from the original model comparison. | The recommendation followed measured performance rather than model complexity. |
+| A good forecast does not guarantee material availability | I translated demand into inventory scenarios, compared replenishment timing, and required both the 98% fill-rate threshold and zero shortage weeks for READY status. | Recovery actions had to satisfy the complete readiness rule, rather than a single favorable KPI. |
+| Dashboard results needed to remain traceable to the underlying calculations | I independently reconciled forecasting, inventory, intervention economics, and reporting outputs, including an isolated rebuild of the 18 reporting views. | This established consistency within the prepared reporting layer while keeping its reproduction limits explicit. |
+
+## Opportunities for Improvement
+
+1. **Test forecast stability with longer histories.** Add more products and periods, retain chronological evaluation, and test whether external signals improve performance consistently against comparable baselines.
+2. **Validate the planning assumptions with operating evidence.** Replace illustrative inventory, lead-time, shortage-penalty, and intervention-cost assumptions with authorized operational records; confirm supplier feasibility before recommending a purchasing action.
+3. **Complete the raw-data rebuild.** Record source versions, replace machine-specific paths, and document a tested dependency environment so another analyst can reconstruct the workflow from raw inputs.
+4. **Expand decision sensitivity.** Evaluate whether the preferred action changes across plausible service targets, replenishment constraints, and fully specified intervention costs.
